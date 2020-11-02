@@ -1,0 +1,727 @@
+{
+    "$schema": "https://github.com/Open-Systems-Pharmacology/QualificationPlan/releases/download/v2.1/OSP_Qualification_Plan_Schema.json",
+    "Projects": [
+        {
+            "Id": "Midazolam",
+            "Path": "https://github.com/Open-Systems-Pharmacology/Midazolam-Model/releases/download/v1.0/Midazolam-Model.json"
+        },        
+        {
+            "Id": "Efavirenz",
+            "Path": "../../Efavirenz-Model.json",
+            "BuildingBlocks": [
+                {
+                    "Type": "Compound",
+                    "Name": "Midazolam",
+                    "Project": "Midazolam"
+                  }                
+            ],
+            "SimulationParameters": [
+                {
+                    "Project": "Midazolam",
+                    "Simulation": "po 3 mg (solution)",
+                    "Path": "Neighborhoods|Duodenum_int_Duodenum_cell|Midazolam|P (interstitial->intracellular)",
+                    "TargetSimulations": [
+                      "Mikus 2017, Midazolam alone",
+                      "Mikus 2017, Midazolam + Efavirenz 400mg SD",
+                      "Katzenmaier 2010, Midazolam alone",
+                      "Katzenmaier 2010, Midazolam +  Efavirenz 400mg MD"
+                    ]
+                  },
+                  {
+                    "Project": "Midazolam",
+                    "Simulation": "po 3 mg (solution)",
+                    "Path": "Neighborhoods|UpperJejunum_int_UpperJejunum_cell|Midazolam|P (interstitial->intracellular)",
+                    "TargetSimulations": [
+                        "Mikus 2017, Midazolam alone",
+                        "Mikus 2017, Midazolam + Efavirenz 400mg SD",
+                        "Katzenmaier 2010, Midazolam alone",
+                        "Katzenmaier 2010, Midazolam +  Efavirenz 400mg MD"
+                    ]
+                  },
+                  {
+                    "Project": "Midazolam",
+                    "Simulation": "po 3 mg (solution)",
+                    "Path": "Neighborhoods|LowerJejunum_int_LowerJejunum_cell|Midazolam|P (interstitial->intracellular)",
+                    "TargetSimulations": [
+                        "Mikus 2017, Midazolam alone",
+                        "Mikus 2017, Midazolam + Efavirenz 400mg SD",
+                        "Katzenmaier 2010, Midazolam alone",
+                        "Katzenmaier 2010, Midazolam +  Efavirenz 400mg MD"
+                    ]
+                  },
+                  {
+                    "Project": "Midazolam",
+                    "Simulation": "po 3 mg (solution)",
+                    "Path": "Neighborhoods|UpperIleum_int_UpperIleum_cell|Midazolam|P (interstitial->intracellular)",
+                    "TargetSimulations": [
+                        "Mikus 2017, Midazolam alone",
+                        "Mikus 2017, Midazolam + Efavirenz 400mg SD",
+                        "Katzenmaier 2010, Midazolam alone",
+                        "Katzenmaier 2010, Midazolam +  Efavirenz 400mg MD"
+                    ]
+                  },
+                  {
+                    "Project": "Midazolam",
+                    "Simulation": "po 3 mg (solution)",
+                    "Path": "Neighborhoods|LowerIleum_int_LowerIleum_cell|Midazolam|P (interstitial->intracellular)",
+                    "TargetSimulations": [
+                        "Mikus 2017, Midazolam alone",
+                        "Mikus 2017, Midazolam + Efavirenz 400mg SD",
+                        "Katzenmaier 2010, Midazolam alone",
+                        "Katzenmaier 2010, Midazolam +  Efavirenz 400mg MD"
+                    ]
+                  },
+                  {
+                    "Project": "Midazolam",
+                    "Simulation": "po 3 mg (solution)",
+                    "Path": "Neighborhoods|Caecum_int_Caecum_cell|Midazolam|P (interstitial->intracellular)",
+                    "TargetSimulations": [
+                        "Mikus 2017, Midazolam alone",
+                        "Mikus 2017, Midazolam + Efavirenz 400mg SD",
+                        "Katzenmaier 2010, Midazolam alone",
+                        "Katzenmaier 2010, Midazolam +  Efavirenz 400mg MD"
+                    ]
+                  },
+                  {
+                    "Project": "Midazolam",
+                    "Simulation": "po 3 mg (solution)",
+                    "Path": "Neighborhoods|ColonAscendens_int_ColonAscendens_cell|Midazolam|P (interstitial->intracellular)",
+                    "TargetSimulations": [
+                        "Mikus 2017, Midazolam alone",
+                        "Mikus 2017, Midazolam + Efavirenz 400mg SD",
+                        "Katzenmaier 2010, Midazolam alone",
+                        "Katzenmaier 2010, Midazolam +  Efavirenz 400mg MD"
+                    ]
+                  },
+                  {
+                    "Project": "Midazolam",
+                    "Simulation": "po 3 mg (solution)",
+                    "Path": "Neighborhoods|ColonTransversum_int_ColonTransversum_cell|Midazolam|P (interstitial->intracellular)",
+                    "TargetSimulations": [
+                        "Mikus 2017, Midazolam alone",
+                        "Mikus 2017, Midazolam + Efavirenz 400mg SD",
+                        "Katzenmaier 2010, Midazolam alone",
+                        "Katzenmaier 2010, Midazolam +  Efavirenz 400mg MD"
+                    ]
+                  },
+                  {
+                    "Project": "Midazolam",
+                    "Simulation": "po 3 mg (solution)",
+                    "Path": "Neighborhoods|ColonDescendens_int_ColonDescendens_cell|Midazolam|P (interstitial->intracellular)",
+                    "TargetSimulations": [
+                        "Mikus 2017, Midazolam alone",
+                        "Mikus 2017, Midazolam + Efavirenz 400mg SD",
+                        "Katzenmaier 2010, Midazolam alone",
+                        "Katzenmaier 2010, Midazolam +  Efavirenz 400mg MD"
+                    ]
+                  },
+                  {
+                    "Project": "Midazolam",
+                    "Simulation": "po 3 mg (solution)",
+                    "Path": "Neighborhoods|ColonSigmoid_int_ColonSigmoid_cell|Midazolam|P (interstitial->intracellular)",
+                    "TargetSimulations": [
+                        "Mikus 2017, Midazolam alone",
+                        "Mikus 2017, Midazolam + Efavirenz 400mg SD",
+                        "Katzenmaier 2010, Midazolam alone",
+                        "Katzenmaier 2010, Midazolam +  Efavirenz 400mg MD"
+                    ]
+                  },
+                  {
+                    "Project": "Midazolam",
+                    "Simulation": "po 3 mg (solution)",
+                    "Path": "Neighborhoods|Rectum_int_Rectum_cell|Midazolam|P (interstitial->intracellular)",
+                    "TargetSimulations": [
+                        "Mikus 2017, Midazolam alone",
+                        "Mikus 2017, Midazolam + Efavirenz 400mg SD",
+                        "Katzenmaier 2010, Midazolam alone",
+                        "Katzenmaier 2010, Midazolam +  Efavirenz 400mg MD"
+                    ]
+                  },
+                  {
+                    "Project": "Midazolam",
+                    "Simulation": "po 3 mg (solution)",
+                    "Path": "Neighborhoods|Duodenum_int_Duodenum_cell|Midazolam|P (intracellular->interstitial)",
+                    "TargetSimulations": [
+                        "Mikus 2017, Midazolam alone",
+                        "Mikus 2017, Midazolam + Efavirenz 400mg SD",
+                        "Katzenmaier 2010, Midazolam alone",
+                        "Katzenmaier 2010, Midazolam +  Efavirenz 400mg MD"
+                    ]
+                  },
+                  {
+                    "Project": "Midazolam",
+                    "Simulation": "po 3 mg (solution)",
+                    "Path": "Neighborhoods|UpperJejunum_int_UpperJejunum_cell|Midazolam|P (intracellular->interstitial)",
+                    "TargetSimulations": [
+                        "Mikus 2017, Midazolam alone",
+                        "Mikus 2017, Midazolam + Efavirenz 400mg SD",
+                        "Katzenmaier 2010, Midazolam alone",
+                        "Katzenmaier 2010, Midazolam +  Efavirenz 400mg MD"
+                    ]
+                  },
+                  {
+                    "Project": "Midazolam",
+                    "Simulation": "po 3 mg (solution)",
+                    "Path": "Neighborhoods|LowerJejunum_int_LowerJejunum_cell|Midazolam|P (intracellular->interstitial)",
+                    "TargetSimulations": [
+                        "Mikus 2017, Midazolam alone",
+                        "Mikus 2017, Midazolam + Efavirenz 400mg SD",
+                        "Katzenmaier 2010, Midazolam alone",
+                        "Katzenmaier 2010, Midazolam +  Efavirenz 400mg MD"
+                    ]
+                  },
+                  {
+                    "Project": "Midazolam",
+                    "Simulation": "po 3 mg (solution)",
+                    "Path": "Neighborhoods|UpperIleum_int_UpperIleum_cell|Midazolam|P (intracellular->interstitial)",
+                    "TargetSimulations": [
+                        "Mikus 2017, Midazolam alone",
+                        "Mikus 2017, Midazolam + Efavirenz 400mg SD",
+                        "Katzenmaier 2010, Midazolam alone",
+                        "Katzenmaier 2010, Midazolam +  Efavirenz 400mg MD"
+                    ]
+                  },
+                  {
+                    "Project": "Midazolam",
+                    "Simulation": "po 3 mg (solution)",
+                    "Path": "Neighborhoods|LowerIleum_int_LowerIleum_cell|Midazolam|P (intracellular->interstitial)",
+                    "TargetSimulations": [
+                        "Mikus 2017, Midazolam alone",
+                        "Mikus 2017, Midazolam + Efavirenz 400mg SD",
+                        "Katzenmaier 2010, Midazolam alone",
+                        "Katzenmaier 2010, Midazolam +  Efavirenz 400mg MD"
+                    ]
+                  },
+                  {
+                    "Project": "Midazolam",
+                    "Simulation": "po 3 mg (solution)",
+                    "Path": "Neighborhoods|Caecum_int_Caecum_cell|Midazolam|P (intracellular->interstitial)",
+                    "TargetSimulations": [
+                        "Mikus 2017, Midazolam alone",
+                        "Mikus 2017, Midazolam + Efavirenz 400mg SD",
+                        "Katzenmaier 2010, Midazolam alone",
+                        "Katzenmaier 2010, Midazolam +  Efavirenz 400mg MD"
+                    ]
+                  },
+                  {
+                    "Project": "Midazolam",
+                    "Simulation": "po 3 mg (solution)",
+                    "Path": "Neighborhoods|ColonAscendens_int_ColonAscendens_cell|Midazolam|P (intracellular->interstitial)",
+                    "TargetSimulations": [
+                        "Mikus 2017, Midazolam alone",
+                        "Mikus 2017, Midazolam + Efavirenz 400mg SD",
+                        "Katzenmaier 2010, Midazolam alone",
+                        "Katzenmaier 2010, Midazolam +  Efavirenz 400mg MD"
+                    ]
+                  },
+                  {
+                    "Project": "Midazolam",
+                    "Simulation": "po 3 mg (solution)",
+                    "Path": "Neighborhoods|ColonTransversum_int_ColonTransversum_cell|Midazolam|P (intracellular->interstitial)",
+                    "TargetSimulations": [
+                        "Mikus 2017, Midazolam alone",
+                        "Mikus 2017, Midazolam + Efavirenz 400mg SD",
+                        "Katzenmaier 2010, Midazolam alone",
+                        "Katzenmaier 2010, Midazolam +  Efavirenz 400mg MD"
+                    ]
+                  },
+                  {
+                    "Project": "Midazolam",
+                    "Simulation": "po 3 mg (solution)",
+                    "Path": "Neighborhoods|ColonDescendens_int_ColonDescendens_cell|Midazolam|P (intracellular->interstitial)",
+                    "TargetSimulations": [
+                        "Mikus 2017, Midazolam alone",
+                        "Mikus 2017, Midazolam + Efavirenz 400mg SD",
+                        "Katzenmaier 2010, Midazolam alone",
+                        "Katzenmaier 2010, Midazolam +  Efavirenz 400mg MD"
+                    ]
+                  },
+                  {
+                    "Project": "Midazolam",
+                    "Simulation": "po 3 mg (solution)",
+                    "Path": "Neighborhoods|ColonSigmoid_int_ColonSigmoid_cell|Midazolam|P (intracellular->interstitial)",
+                    "TargetSimulations": [
+                        "Mikus 2017, Midazolam alone",
+                        "Mikus 2017, Midazolam + Efavirenz 400mg SD",
+                        "Katzenmaier 2010, Midazolam alone",
+                        "Katzenmaier 2010, Midazolam +  Efavirenz 400mg MD"
+                    ]
+                  },
+                  {
+                    "Project": "Midazolam",
+                    "Simulation": "po 3 mg (solution)",
+                    "Path": "Neighborhoods|Rectum_int_Rectum_cell|Midazolam|P (intracellular->interstitial)",
+                    "TargetSimulations": [
+                        "Mikus 2017, Midazolam alone",
+                        "Mikus 2017, Midazolam + Efavirenz 400mg SD",
+                        "Katzenmaier 2010, Midazolam alone",
+                        "Katzenmaier 2010, Midazolam +  Efavirenz 400mg MD"
+                    ]
+                  }
+            ]
+        }
+    ],
+    "ObservedDataSets": [],
+    "Plots": {
+        "AxesSettings": {
+            "GOFMergedPlotsPredictedVsObserved": [
+                {
+                    "Type": "X",
+                    "Dimension": "Concentration (mass)",
+                    "Unit": "µg/l",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                },
+                {
+                    "Type": "Y",
+                    "Dimension": "Concentration (mass)",
+                    "Unit": "µg/l",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                }
+            ],
+            "GOFMergedPlotsResidualsOverTime": [
+                {
+                    "Type": "X",
+                    "Dimension": "Time",
+                    "Unit": "h",
+                    "GridLines": false,
+                    "Scaling": "Linear"
+                },
+                {
+                    "Type": "Y",
+                    "Dimension": "Dimensionless",
+                    "Unit": "",
+                    "GridLines": false,
+                    "Scaling": "Linear"
+                }
+            ],
+            "ComparisonTimeProfile": [
+                {
+                    "Type": "X",
+                    "Dimension": "Time",
+                    "Unit": "h",
+                    "GridLines": false,
+                    "Scaling": "Linear"
+                },
+                {
+                    "Type": "Y",
+                    "Dimension": "Concentration (mass)",
+                    "Unit": "µg/l",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                }
+            ],
+            "DDIRatioPlotsPredictedVsObserved": [
+                {
+                    "Type": "X",
+                    "Dimension": "Dimensionless",
+                    "Unit": "",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                },
+                {
+                    "Type": "Y",
+                    "Dimension": "Dimensionless",
+                    "Unit": "",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                }
+            ],
+            "DDIRatioPlotsResidualsVsObserved": [
+                {
+                    "Type": "X",
+                    "Dimension": "Dimensionless",
+                    "Unit": "",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                },
+                {
+                    "Type": "Y",
+                    "Dimension": "Dimensionless",
+                    "Unit": "",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                }
+            ],
+            "PKRatioPlots": [
+                {
+                    "Type": "X",
+                    "Dimension": "Age",
+                    "Unit": "year(s)",
+                    "GridLines": false,
+                    "Scaling": "Linear"
+                },
+                {
+                    "Type": "Y",
+                    "Dimension": "Dimensionless",
+                    "Unit": "",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                }
+            ]
+        },
+        "PlotSettings": {
+            "ChartWidth": 500,
+            "ChartHeight": 400,
+            "Fonts": {
+                "AxisSize": 11,
+                "LegendSize": 9,
+                "OriginSize": 9,
+                "FontFamilyName": "Arial",
+                "WatermarkSize": 40
+            }
+        },
+        "AllPlots": [
+            {
+                "Project": "Efavirenz",
+                "Simulation": "Ogburn 2010, 600mg SD",
+                "SectionId": 331
+            },
+            {
+                "Project": "Efavirenz",
+                "Simulation": "Xu 2013, 600mg SD EM",
+                "SectionId": 331
+            },
+            {
+                "Project": "Efavirenz",
+                "Simulation": "Xu 2013, 600mg SD IM",
+                "SectionId": 331
+            },
+            {
+                "Project": "Efavirenz",
+                "Simulation": "Xu 2013, 600mg SD PM",
+                "SectionId": 331
+            },
+            {
+                "Project": "Efavirenz",
+                "Simulation": "Mouly 2002, 200mg MD",
+                "SectionId": 331
+            },
+            {
+                "Project": "Efavirenz",
+                "Simulation": "Mouly 2002, 400mg MD",
+                "SectionId": 331
+            },
+            {
+                "Project": "Efavirenz",
+                "Simulation": "Liu 2008, 400 mg PO OD",
+                "SectionId": 331
+            },
+            {
+                "Project": "Efavirenz",
+                "Simulation": "Dooley 2012, 600mg MD EM",
+                "SectionId": 331
+            },
+            {
+                "Project": "Efavirenz",
+                "Simulation": "Dooley 2012, 600mg MD IM",
+                "SectionId": 331
+            },
+            {
+                "Project": "Efavirenz",
+                "Simulation": "Dooley 2012, 600mg MD PM",
+                "SectionId": 331
+            },
+            {
+                "Project": "Efavirenz",
+                "Simulation": "Huang 2012, 600mg MD",
+                "SectionId": 331
+            },
+            {
+                "Project": "Efavirenz",
+                "Simulation": "Garg 2013, 600mg MD",
+                "SectionId": 331
+            },
+            {
+                "Project": "Efavirenz",
+                "Simulation": "Malvestutto 2014, 600mg PO OD",
+                "SectionId": 331
+            },
+            {
+                "Project": "Efavirenz",
+                "Simulation": "Damle 2008, 600 mg PO OD",
+                "SectionId": 331
+            },
+            {
+                "Project": "Efavirenz",
+                "Simulation": "Soon 2010, 600mg MD over 28 days",
+                "SectionId": 331
+            },
+            {
+                "Project": "Efavirenz",
+                "Simulation": "Mikus 2017, Midazolam alone",
+                "SectionId": 332
+            },
+            {
+                "Project": "Efavirenz",
+                "Simulation": "Mikus 2017, Midazolam + Efavirenz 400mg SD",
+                "SectionId": 332
+            },
+            {
+                "Project": "Efavirenz",
+                "Simulation": "Katzenmaier 2010, Midazolam alone",
+                "SectionId": 332
+            },
+            {
+                "Project": "Efavirenz",
+                "Simulation": "Katzenmaier 2010, Midazolam +  Efavirenz 400mg MD",
+                "SectionId": 332
+            }
+        ],
+        "GOFMergedPlots": [
+            {
+                "Title": "Goodness of fit plor for concentration in plasma",
+                "SectionId": 32,
+                "Artifacts": [
+                    "Plot",
+                    "GMFE",
+                    "Measure"
+                ],
+                "PlotType": "predictedVsObserved|residualsOverTime",
+                "Groups": [
+                    {
+                        "Caption": "First dose administration",
+                        "Symbol": "Circle",
+                        "OutputMappings": [
+                            {
+                                "Project": "Efavirenz",
+                                "Simulation": "Ogburn 2010, 600mg SD",
+                                "Output": "Organism|PeripheralVenousBlood|Efavirenz|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Ogburn2010_600mg",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Efavirenz",
+                                "Simulation": "Xu 2013, 600mg SD EM",
+                                "Output": "Organism|PeripheralVenousBlood|Efavirenz|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Xu 2013 - CYP2B6*1/*1 genotype - Efavirenz - PO - 600 mg - Plasma - indiv.",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Efavirenz",
+                                "Simulation": "Xu 2013, 600mg SD IM",
+                                "Output": "Organism|PeripheralVenousBlood|Efavirenz|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Xu 2013 - CYP2B6*1/*6 genotype - Efavirenz - PO - 600 mg - Plasma - indiv.",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Efavirenz",
+                                "Simulation": "Xu 2013, 600mg SD PM",
+                                "Output": "Organism|PeripheralVenousBlood|Efavirenz|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Xu 2013 - CYP2B6*6/*6 genotype - Efavirenz - PO - 600 mg - Plasma - indiv.",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Efavirenz",
+                                "Simulation": "Mouly 2002, 200mg MD",
+                                "Output": "Organism|PeripheralVenousBlood|Efavirenz|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Mouly 2002 - 200 mg, Day 1 - Efavirenz - PO - 200 mg - Plasma - agg. (n=8)",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Efavirenz",
+                                "Simulation": "Mouly 2002, 400mg MD",
+                                "Output": "Organism|PeripheralVenousBlood|Efavirenz|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Mouly 2002 - 400 mg, Day 1 - Efavirenz - PO - 400 mg - Plasma - agg. (n=8)",
+                                "Color": "#FF0000"
+                            }
+                        ]
+                    },
+                    {
+                        "Caption": "Multiple dose administration",
+                        "Symbol": "Square",
+                        "OutputMappings": [
+                            {
+                                "Project": "Efavirenz",
+                                "Simulation": "Mouly 2002, 200mg MD",
+                                "Output": "Organism|PeripheralVenousBlood|Efavirenz|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Mouly 2002 - 200 mg, Day 10 - Efavirenz - PO - 200 mg - Plasma - agg. (n=8)",
+                                "Color": "#0000FF"
+                            },
+                            {
+                                "Project": "Efavirenz",
+                                "Simulation": "Mouly 2002, 400mg MD",
+                                "Output": "Organism|PeripheralVenousBlood|Efavirenz|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Mouly 2002 - 400 mg, Day 10 - Efavirenz - PO - 400 mg - Plasma - agg. (n=8)",
+                                "Color": "#0000FF"
+                            },
+                            {
+                                "Project": "Efavirenz",
+                                "Simulation": "Liu 2008, 400 mg PO OD",
+                                "Output": "Organism|PeripheralVenousBlood|Efavirenz|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Liu 2008 - Group 1, efavirenz alone - Efavirenz - PO - 400 mg - Plasma - agg. (n=16)",
+                                "Color": "#0000FF"
+                            },
+                            {
+                                "Project": "Efavirenz",
+                                "Simulation": "Liu 2008, 400 mg PO OD",
+                                "Output": "Organism|PeripheralVenousBlood|Efavirenz|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Liu 2008 - Group 2, efavirenz + placebo - Efavirenz - PO - 400 mg - Plasma - agg. (n=11)",
+                                "Color": "#0000FF"
+                            },
+                            {
+                                "Project": "Efavirenz",
+                                "Simulation": "Liu 2008, 400 mg PO OD",
+                                "Output": "Organism|PeripheralVenousBlood|Efavirenz|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Liu 2008 - Group 2, efavirenz alone - Efavirenz - PO - 400 mg - Plasma - agg. (n=11)",
+                                "Color": "#0000FF"
+                            },
+                            {
+                                "Project": "Efavirenz",
+                                "Simulation": "Dooley 2012, 600mg MD EM",
+                                "Output": "Organism|PeripheralVenousBlood|Efavirenz|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Dooley 2012 - Extensive metabolizer - Efavirenz - PO - 600 mg - Plasma - agg. (n=34)",
+                                "Color": "#0000FF"
+                            },
+                            {
+                                "Project": "Efavirenz",
+                                "Simulation": "Dooley 2012, 600mg MD IM",
+                                "Output": "Organism|PeripheralVenousBlood|Efavirenz|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Dooley 2012 - Intermediate metabolizer - Efavirenz - PO - 600 mg - Plasma - agg. (n=34)",
+                                "Color": "#0000FF"
+                            },
+                            {
+                                "Project": "Efavirenz",
+                                "Simulation": "Dooley 2012, 600mg MD PM",
+                                "Output": "Organism|PeripheralVenousBlood|Efavirenz|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Dooley 2012 - Slow metabolizer - Efavirenz - PO - 600 mg - Plasma - agg. (n=34)",
+                                "Color": "#0000FF"
+                            },
+                            {
+                                "Project": "Efavirenz",
+                                "Simulation": "Huang 2012, 600mg MD",
+                                "Output": "Organism|PeripheralVenousBlood|Efavirenz|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Huang 2013 - EFV administration alone - Efavirenz - PO - 600 mg - Plasma - agg. (n=12)",
+                                "Color": "#0000FF"
+                            },
+                            {
+                                "Project": "Efavirenz",
+                                "Simulation": "Garg 2013, 600mg MD",
+                                "Output": "Organism|PeripheralVenousBlood|Efavirenz|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Garg 2013 - Efavirenz without telaprevir - Efavirenz - PO - 600 mg - Plasma - agg. (n=28)",
+                                "Color": "#0000FF"
+                            },
+                            {
+                                "Project": "Efavirenz",
+                                "Simulation": "Malvestutto 2014, 600mg PO OD",
+                                "Output": "Organism|PeripheralVenousBlood|Efavirenz|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Malvestutto 2014 - Efavirenz alone - Efavirenz - PO - 600 mg - Plasma - agg. (n=14)",
+                                "Color": "#0000FF"
+                            },
+                            {
+                                "Project": "Efavirenz",
+                                "Simulation": "Damle 2008, 600 mg PO OD",
+                                "Output": "Organism|PeripheralVenousBlood|Efavirenz|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Damle 2008 - Efavirenz alone - Efavirenz - PO - 600 mg - Plasma - agg. (n=16)",
+                                "Color": "#0000FF"
+                            },
+                            {
+                                "Project": "Efavirenz",
+                                "Simulation": "Soon 2010, 600mg MD over 28 days",
+                                "Output": "Organism|PeripheralVenousBlood|Efavirenz|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Soon 2010 - Efavirenz alone - Efavirenz - PO - 600 mg - Plasma - agg. (n=12)",
+                                "Color": "#0000FF"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "ComparisonTimeProfilePlots": [],
+        "DDIRatioPlots": [],
+        "PKRatioPlots": []
+    },
+    "Inputs": [
+        {
+            "Project": "Efavirenz",
+            "Name": "Efavirenz",
+            "Type": "Compound",
+            "SectionId": 31
+        },
+        {
+            "Project": "Efavirenz",
+            "Name": "Sustiva",
+            "Type": "Formulation",
+            "SectionId": 31
+        }
+    ],
+    "Sections": [
+        {
+            "Id": 1,
+            "Title": "1 Introduction",
+            "Content": "Content/Section1_Introduction.md"
+        },
+        {
+            "Id": 2,
+            "Title": "2 Methods",
+            "Content": "Content/Section2_Methods.md",
+            "Sections": [
+                {
+                    "Id": 21,
+                    "Title": "2.1 Modeling Strategy",
+                    "Content": "Content/Section2.1_Modeling_Strategy.md"
+                },
+                {
+                    "Id": 22,
+                    "Title": "2.2 Data",
+                    "Content": "Content/Section2.2_Data.md"
+                },
+                {
+                    "Id": 23,
+                    "Title": "2.3 Model Parameters and Assumptions",
+                    "Content": "Content/Section2.3_Model_Parameters_and_Assumptions.md"
+                }
+            ]
+        },
+        {
+            "Id": 3,
+            "Title": "3 Results and Discussion",
+            "Content": "Content/Section3_Results_and_Discussion.md",
+            "Sections": [
+                {
+                    "Id": 31,
+                    "Title": "3.1 Final input parameters",
+                    "Content": "Content/Input_table.md"
+                },
+                {
+                    "Id": 32,
+                    "Title": "3.2 Diagnostics Plots",
+                    "Content": "Content/GOF_diagnostics.md"
+                },
+                {
+                    "Id": 33,
+                    "Title": "3.3: Concentration-Time Profiles",
+                    "Content": "Content/Concentration_time_profiles.md",
+                    "Sections": [
+                        {
+                            "Id": 331,
+                            "Title": "3.3.1 Model Building",
+                            "Content": "Content/Concentration_time_profiles_building.md"
+                        },
+                        {
+                            "Id": 332,
+                            "Title": "3.3.2 Fitted interaction with Midazolam",
+                            "Content": "Content/Concentration_time_profiles_mdz_interaction.md"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": 4,
+            "Title": "4 Conclusion",
+            "Content": "Content/Section4_Conclusion.md"
+        },
+        {
+            "Id": 5,
+            "Title": "5 References",
+            "Content": "Content/References.md"
+        }
+    ],
+    "Intro": [
+        {
+            "Path": "Content/titlepage.md"
+        }
+    ]
+}
