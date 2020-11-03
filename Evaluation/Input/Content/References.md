@@ -8,23 +8,23 @@
 
 **Meyer 2012** Meyer M, Schneckener S, Ludewig B, Kuepfer L, Lippert J. Using expression data for quantification of active processes in physiologically based pharmacokinetic modeling. Drug Metab Dispos. 2012 May;40(5):892-901.
 
-**Wishart 2006**
+**Wishart 2006** Wishart DS, Knox C, Guo AC, Shrivastava S, Hassanali M, Stothard P,  Chang Z, Woolsey J. DrugBank: a comprehensive resource for in silico  drug discovery and exploration. Nucleic Acids Res. 2006 Jan  1;34(Database issue):D668-72. doi: 10.1093/nar/gkj067. PMID: 16381955;  PMCID: PMC1347430.
 
-**Avdeef 2001**
+**Avdeef 2001** Avdeef A, Berger CM. pH-metric solubility. 3. Dissolution titration  template method for solubility determination. Eur J Pharm Sci. 2001  Dec;14(4):281-91. doi: 10.1016/s0928-0987(01)00190-7. PMID: 11684402.
 
-**Taylor 1978**
+**Taylor 1978** Taylor DC, Cresswell PR, Bartlett DC. The metabolism and elimination of  cimetidine, a histamine H2-receptor antagonist, in the rat, dog, and  man. Drug Metab Dispos. 1978 Jan-Feb;6(1):21-30. PMID: 23270.
 
-**Somogyi 1983**
+**Somogyi 1983** Somogyi A, Gugler R. Clinical pharmacokinetics of cimetidine. Clin  Pharmacokinet. 1983 Nov-Dec;8(6):463-95. doi:  10.2165/00003088-198308060-00001. PMID: 6418428.
 
-**Umehara 2007**
+**Umehara 2007** Umehara KI, Iwatsubo T, Noguchi K, Kamimura H. Functional involvement of organic cation transporter1 (OCT1/Oct1) in the hepatic uptake of  organic cations in humans and rats. Xenobiotica. 2007 Aug;37(8):818-31.  doi: 10.1080/00498250701546012. PMID: 17701831.
 
-**Tahara 2005**
+**Tahara 2005** Tahara H, Kusuhara H, Endou H, Koepsell H, Imaoka T, Fuse E, Sugiyama Y. A species difference in the transport activities of H2 receptor  antagonists by rat and human renal organic anion and cation  transporters. J Pharmacol Exp Ther. 2005 Oct;315(1):337-45. doi:  10.1124/jpet.105.088104. Epub 2005 Jul 8. PMID: 16006492.
 
-**Ohta 2005**
+**Ohta 2005** Ohta KY, Inoue K, Yasujima T, Ishimaru M, Yuasa H. Functional  characteristics of two human MATE transporters: kinetics of cimetidine  transport and profiles of inhibition by various compounds. J Pharm Pharm Sci. 2009;12(3):388-96. doi: 10.18433/j3r59x. PMID: 20067714.
 
-**Ito 2012**
+**Ito 2012** Ito S, Kusuhara H,  Yokochi M, Toyoshima J, Inoue K, Yuasa H, Sugiyama Y. Competitive  inhibition of the luminal efflux by multidrug and toxin extrusions, but  not basolateral uptake by organic cation transporter 2, is the likely  mechanism underlying the pharmacokinetic drug-drug interactions caused  by cimetidine in the kidney. J Pharmacol Exp Ther. 2012  Feb;340(2):393-403. doi: 10.1124/jpet.111.184986. Epub 2011 Nov 9. PMID: 22072731.
 
-**Wrighton 1994**
+**Wrighton 1994** Wrighton SA, Ring  BJ. Inhibition of human CYP3A catalyzed 1'-hydroxy midazolam formation  by ketoconazole, nifedipine, erythromycin, cimetidine, and nizatidine.  Pharm Res. 1994 Jun;11(6):921-4. doi: 10.1023/a:1018906614320. PMID:  7937537.
 
 **Grahnen 1979** Grahnén A, von Bahr C, Lindström B, Rosén A. Bioavailability and  pharmacokinetics of cimetidine. Eur J Clin Pharmacol. 1979  Nov;16(5):335-40. doi: 10.1007/BF00605632. PMID: 520401.
 
@@ -36,11 +36,15 @@
 
 **Morgan 1983** Morgan DJ, Uccellini DA, Raymond K, Mihaly GW, Jones DB, Smallwood RA.  The influence of duration of intravenous infusion of an acute dose on  plasma concentrations of cimetidine. Eur J Clin Pharmacol.  1983;25(1):29-34. doi: 10.1007/BF00544010. PMID: 6617722.
 
+**Lebert 1981** Lebert PA, Mahon  WA, MacLeod SM, Soldin SJ, Fenje P, Vandenberghe HM. Ranitidine kinetics and dynamics. II. Intravenous dose studies and comparison with  cimetidine. Clin Pharmacol Ther. 1981 Oct;30(4):545-50. doi:  10.1038/clpt.1981.201. PMID: 6269789.
+
 **Walkenstein 1978** Walkenstein SS, Dubb JW, Randolph WC, Westlake WJ, Stote RM, Intoccia  AP. Bioavailability of cimetidine in man. Gastroenterology. 1978  Feb;74(2 Pt 2):360-5. PMID: 620910.
 
 **Kanto 1981** Kanto J, Allonen H, Jalonen H, Mäntylä R. The effect of metoclopramide  and propantheline on the gastrointestinal absorption of cimetidine. Br J Clin Pharmacol. 1981 Jun;11(6):629-31. doi:  10.1111/j.1365-2125.1981.tb01184.x. PMID: 7272182; PMCID: PMC1402204.
 
 **Burland 1975** Burland WL, Duncan WA, Hesselbo T, Mills JG, Sharpe PC, Haggie SJ,  Wyllie JH. Pharmacological evaluation of cimetidine, a new histamine  H2-receptor antagonist, in healthy man. Br J Clin Pharmacol. 1975  Dec;2(6):481-6. doi: 10.1111/j.1365-2125.1975.tb00564.x. PMID: 9952;  PMCID: PMC1402643.
+
+**Bodemar 1979** Bodemar G,  Norlander B, Fransson L, Walan A. The absorption of cimetidine before  and during maintenance treatment with cimetidine and the influence of a  meal on the absorption of cimetidine--studies in patients with peptic  ulcer disease. Br J Clin Pharmacol. 1979 Jan;7(1):23-31. doi:  10.1111/j.1365-2125.1979.tb00892.x. PMID: 760739; PMCID: PMC1429608.
 
 **D'Angio 1986** D'Angio R, Mayersohn M, Conrad KA, Bliss M. Cimetidine absorption in  humans during sucralfate coadministration. Br J Clin Pharmacol. 1986  May;21(5):515-20. doi: 10.1111/j.1365-2125.1986.tb02834.x. PMID:  3755052; PMCID: PMC1401033.
 

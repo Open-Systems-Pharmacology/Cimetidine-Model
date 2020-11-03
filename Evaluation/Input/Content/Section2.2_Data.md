@@ -1,6 +1,6 @@
 ### 2.2.1 In vitro / physico-chemical Data
 
-A literature search was performed to collect available information on physiochemical properties of efavirenz. The obtained information from literature is summarized in the table below. 
+A literature search was performed to collect available information on physiochemical properties of cimetidine. The obtained information from literature is summarized in the table below. 
 
 | **Parameter**   | **Unit** | **Value**       | Source                                                       | **Description**                                 |
 | :-------------- | -------- | --------------- | ------------------------------------------------------------ | ----------------------------------------------- |
@@ -28,22 +28,32 @@ A literature search was performed to collect available clinical data on efaviren
 
 The following studies were used for model building:
 
-| Publication                  | Arm / Treatment / Information used for model building        |
-| :--------------------------- | :----------------------------------------------------------- |
-| [Mouly 2002](#5-References)  | Healthy subjects receiving a single oral dose of 200 and 400 mg |
-| [Ogburn 2013](#5-References) | Healthy subjects receiving a single oral dose of 600 mg      |
-| [Xu 2013](#5-References)     | Healthy subjects with different CYP2B6 genotypes receiving a single oral dose of 600 mg |
-| [Dooley 2012](#5-References) | Healthy subjects with different CYP2B6 genotypes receiving multiple doses of 600 mg |
-| [Garg 2013](#5-References)   | Healthy subjects receiving multiple doses of 600 mg          |
-| [Huang 2012](#5-References)  | Healthy subjects receiving multiple doses of 600 mg          |
-
-
-
-#### 2.2.2.2 Midazolam interaction studies used to parameterize CYP3A4 interaction
-
-The following studies were used for parameterization of CYP3A4 interaction:
-
 | Publication                       | Arm / Treatment / Information used for model building        |
 | :-------------------------------- | :----------------------------------------------------------- |
-| [Mikus 2017](#5-References)       | Healthy subjects receiving a single oral dose of  400 mg Efavirenz at t=0h, 4 mg midazolam at t=12h and a single intravenous dose of 2 mg midazolam at t=18h. |
-| [Katzenmaier 2010](#5-References) | Healthy subjects receiving multiple oral doses of 400 mg efavirenz QD. On day 14, subjects receive a single oral midazolam dose of 3 mg. |
+| [Bodemar 1981](#5-References)     | Healthy subjects receiving a single intravenous dose of 200 mg and oral doses of 200, 400 and 800 mg |
+| [Morgan 1983](#5-References)      | Healthy subjects receiving a single intravenous dose of 200 mg (5 min infusion) |
+| [Bodemar 1979](#5-References)     | Healthy subjects receiving single oral doses of 200 and 400mg (tablet) |
+| [Walkenstein 1978](#5-References) | Healthy subjects receiving a single oral dose of 300mg (solution) |
+| [D'Angio 1986](#5-References)     | Healthy subjects receiving a single oral dose of 300mg (tablet) |
+
+
+
+#### 2.2.2.2 Model verification
+
+The following studies were used for model verification:
+
+| Publication                       | Arm / Treatment / Information used for model verification    |
+| :-------------------------------- | :----------------------------------------------------------- |
+| [Grahnen 1979](#5-References)     | Healthy subjects receiving a single intravenous dose of 100 mg and a single oral dose of 400 mg (tablet) |
+| [Larsson 1982](#5-References)     | Healthy subjects receiving a single intravenous dose of 200 mg |
+| [Mihaly  1984](#5-References)     | Healthy subjects receiving a single intravenous and a single oral dose of 200 mg |
+| [Morgan 1983](#5-References)      | Healthy subjects receiving a single intravenous dose of 200 mg (30 min infusion) |
+| [Lebert 1981](#5-References)      | Healthy subjects receiving a single intravenous dose of 300 mg (2 min infusion) |
+| [Walkenstein 1978](#5-References) | Healthy subjects receiving a single intravenous dose of 300 mg (2 min infusion) and a single oral dose of 300 mg (tablet) |
+| [Kanto 1981](#5-References)       | Healthy subjects receiving a single oral dose of 200 mg      |
+| [Burland 1975](#5-References)     | Healthy subjects receiving single oral doses of 200 mg solution and capsule |
+| [Bodemar 1979](#5-References)     | Healthy subjects receiving a single oral dose of 200 mg (tablet) |
+| [Bodemar 1981](#5-References)     | Healthy subjects receiving single oral doses of 800 mg and multiple oral doses of 200 and 400 mg |
+| [Barbhaiya 1995](#5-References)   | Healthy subjects receiving multiple oral doses of 300 mg (tablet) |
+| [Somogyi 1981](#5-References)     | Healthy subjects receiving a single oral dose of 400 mg (tablet) |
+| [Tiseo 1998](#5-References)       | Healthy subjects receiving multiple oral doses of 800 mg (tablet) |
