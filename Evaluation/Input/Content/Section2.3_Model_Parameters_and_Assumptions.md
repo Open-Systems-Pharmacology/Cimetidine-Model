@@ -4,13 +4,15 @@ Absorption observed in clinical studies can be fully explained by passive absorp
 
 ### 2.3.2 Distribution
 
-After testing the available organ-plasma partition coefficient and cell permeability calculation methods built in PK-Sim, observed clinical data was best described by choosing the partition coefficient calculation by `Schmitt` and cellular permeability calculation by `PK-Sim Standard`. 
+Cimetidine is reported to be actively taken up into the liver by OCT1 ([Umehara 2007](#5-References)), into the kidney by OAT3 ([Tahara 2005](#5-References)) and secreted from the kidney into the urine by MATE1 ([Ohta 2010](#5-References)).
 
-### 2.3.3 Metabolism, Elimination and Induction
+After testing the available organ-plasma partition coefficient and cell permeability calculation methods built in PK-Sim, observed clinical data was best described by choosing the partition coefficient calculation method by `Rodgers and Rowland` and cellular permeability calculation by `PK-Sim Standard`. 
 
-Efavirenz is metabolized by CYP2B6, CYP3A4, CYP3A5, CYP1A2 and CYP2A6. 
+### 2.3.3 Metabolism, Elimination and Inhibition
 
-Induction of CYP3A4  ([Shou 2008](#5-References)) and CYP2B6 ([Ke 2016](#5-References)) was taken into account.
+Cimetidine is mainly excreted unchanged via the kidneys. Additionally, 25 to 40 % is hepatically metabolized via an unknown pathway. 
+
+Cimetidine inhibits several enzymes such as CYP3A4 and CYP2D6 as well as transporters such as OCT2, OCT2 and MATE.
 
 ### 2.3.4 Automated Parameter Identification
 
