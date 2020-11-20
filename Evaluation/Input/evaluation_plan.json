@@ -913,8 +913,8 @@
                         },
                         {
                             "Id": 332,
-                            "Title": "3.3.2 Fitted interaction with Midazolam",
-                            "Content": "Content/Concentration_time_profiles_mdz_interaction.md"
+                            "Title": "3.3.2 Model Validation",
+                            "Content": "Content/Concentration_time_profiles_validation.md"
                         }
                     ]
                 }
