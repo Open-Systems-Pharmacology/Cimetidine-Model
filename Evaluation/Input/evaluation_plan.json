@@ -147,7 +147,7 @@
             },
             {
                 "Project": "Cimetidine",
-                "Simulation": "iv 200 mg,Bodemar 1981, n=10",
+                "Simulation": "iv 200 mg, Bodemar 1981, n=10",
                 "SectionId": 331
             },
             {
@@ -420,21 +420,21 @@
                                 "Project": "Cimetidine",
                                 "Simulation": "po 200 mg (tab), Bodemar 1979 (fasted)",
                                 "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Bodemar 1979 - PO 200 mg - Cimetidine - PO - 200 mg - Plasma - agg. (n=10)",
+                                "ObservedData": "Bodemar 1979 - PO 200 mg - Cimetidine - PO - 200 mg - Whole Blood - agg. (n=10)",
                                 "Color": "#0000FF"
                             },
                             {
                                 "Project": "Cimetidine",
                                 "Simulation": "po 200 mg (tab), Bodemar 1979 (fasted)",
                                 "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Bodemar 1979 - PO 200 mg fasted - Cimetidine - PO - 200 mg - Plasma - agg. (n=10)",
+                                "ObservedData": "Bodemar 1979 - PO 200 mg - Cimetidine - PO - 200 mg - Whole Blood - agg. (n=10)",
                                 "Color": "#0000FF"
                             },
                             {
                                 "Project": "Cimetidine",
                                 "Simulation": "po 200 mg (tab), Bodemar 1979 (fed)",
                                 "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Bodemar 1979 - PO 200 mg fed - Cimetidine - PO - 200 mg - Plasma - agg. (n=10)",
+                                "ObservedData": "Bodemar 1979 - PO 200 mg fed - Cimetidine - PO - 200 mg - Whole Blood - agg. (n=10)",
                                 "Color": "#0000FF"
                             },
                             {
@@ -763,7 +763,7 @@
                                 "Project": "Cimetidine",
                                 "Simulation": "po 400 mg (tab), Bodemar 1979, n=10",
                                 "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Bodemar 1979 - PO 400 mg - Cimetidine - PO - 400 mg - Plasma - agg. (n=10)",
+                                "ObservedData": "Bodemar 1979 - PO 400 mg - Cimetidine - PO - 400 mg - Whole Blood - agg. (n=10)",
                                 "Color": "#0000FF"
                             },
                             {
@@ -818,7 +818,7 @@
                                 "Project": "Cimetidine",
                                 "Simulation": "po 200/400 mg QID, Bodemar 1981 (fasted)",
                                 "Output": "Organism|PeripheralVenousBlood|Cimetidine|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Bodemar 1979 - PO 200 mg - Cimetidine - PO - 200 mg - Plasma - agg. (n=10)",
+                                "ObservedData": "Bodemar 1979 - PO 200 mg - Cimetidine - PO - 200 mg - Whole Blood - agg. (n=10)",
                                 "Color": "#00FF00"
                             },
                             {

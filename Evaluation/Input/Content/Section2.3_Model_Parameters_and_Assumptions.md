@@ -16,23 +16,16 @@ Cimetidine inhibits several enzymes such as CYP3A4 and CYP2D6 as well as transpo
 
 ### 2.3.4 Automated Parameter Identification
 
-The parameter identification tool in PK-Sim has been used to estimate selected model parameters by adjusting to PK data of the clinical studies that were used in the model building process. For some of the parameters, factors were optimized to maintain their ratio, e.g. a factor for the kcat clearances values for CYP2B6, CYP3A4, CYP3A5, CYP1A2 and CYP2A6 was optimized to keep the ratio constant.
+The parameter identification tool in PK-Sim has been used to estimate selected model parameters by adjusting to PK data of the clinical studies that were used in the model building process (see [Section 2.2](#22-Data)). 
 
-The is result of the final parameter identification is shown in the table below:
+The result of the final parameter identification is shown in the table below:
 
 | Model Parameter            | Optimized Value | Unit |
 | -------------------------- | --------------- | ---- |
-| Lipophilicity             | 3.437       |        |
-| Specific intestinal permeability | 2.972E-5    | cm/min |
-| Solubility at reference pH | 39.922   | mg/l |
-| fraction unbound | 5.955E-3 |  |
-| kcat CYP2B6 | 1.601 (factor: 0.31833 of literature reference) | 1/min |
-| kcat CYP3A4 | 0.051 (factor: 0.31833 of literature reference) | 1/min |
-| kcat CYP3A5 | 0.191 (factor: 0.31833 of literature reference) | 1/min |
-| kcat CYP1A2 | 0.191 (factor: 0.31833 of literature reference) | 1/min |
-| kcat CYP2A6 | 0.318 (factor: 0.31833 of literature reference) | 1/min |
-| EC50 CYP3A4 | 0.071 (factor: 0.009711of literature reference) | µmol/l |
-| EC50 CYP2B6 | 0.012 (factor: 0.009711of literature reference) | µmol/l |
-| Dissolution time (50% dissolved) | 60 | min  |
-| Dissolution shape | 0.272 |   |
+| Lipophilicity             | 1.66    |        |
+| Specific intestinal permeability | 8.72E-7 | cm/min |
+| CLhep | 0.16 | 1/min |
+| kcat OCT1 | 8.66E+4 | 1/min |
+| kcat OAT3 | 5.75E+07 | 1/min |
+| kcat MATE1 | 32.37 | 1/min |
 
