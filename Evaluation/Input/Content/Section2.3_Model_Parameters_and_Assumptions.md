@@ -8,6 +8,10 @@ Cimetidine is reported to be actively taken up into the liver by OCT1 ([Umehara 
 
 After testing the available organ-plasma partition coefficient and cell permeability calculation methods built in PK-Sim, observed clinical data was best described by choosing the partition coefficient calculation method by `Rodgers and Rowland` and cellular permeability calculation by `PK-Sim Standard`. 
 
+A `Lipophilicity` of 1.66 was back-calculated from the blood-to-plasma ratio of 0.98 ([Somogyi 1983](#5-References), [Hanke 2020](#5-References)).
+
+
+
 ### 2.3.3 Metabolism, Elimination and Inhibition
 
 Cimetidine is mainly excreted unchanged via the kidneys. Additionally, 25 to 40 % is hepatically metabolized via an unknown pathway. 
@@ -22,7 +26,6 @@ The result of the final parameter identification is shown in the table below:
 
 | Model Parameter            | Optimized Value | Unit |
 | -------------------------- | --------------- | ---- |
-| Lipophilicity             | 1.66    |        |
 | Specific intestinal permeability | 8.72E-7 | cm/min |
 | CLhep | 0.16 | 1/min |
 | kcat OCT1 | 8.66E+4 | 1/min |

@@ -2,11 +2,13 @@
 
 
 
-| Version     | 1.0-OSP9.1            |
-| ----------- | --------------------- |
-| Based on Model Snapshot and Evaluation Plan | https://github.com/Open-Systems-Pharmacology/Cimetidine-Model/releases/tag/v1.0 |
-| OSP Version | 9.1                   |
-| Qualification Framework Version | 2.2                   |
+
+
+| Version                                         | x.y-OSPx.y                                                   |
+| ----------------------------------------------- | ------------------------------------------------------------ |
+| based on *Model Snapshot* and *Evaluation Plan* | https://github.com/Open-Systems-Pharmacology/Cimetidine-Model/releases/tag/v1.0 |
+| OSP Version                                     | x.y                                                          |
+| Qualification Framework Version                 | x.y                                                          |
 
 
 
