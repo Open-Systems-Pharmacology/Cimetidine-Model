@@ -1,4 +1,4 @@
-# Building and evaluation of a PBPK model for efavirenz in healthy adults
+# Building and evaluation of a PBPK model for cimetidine in healthy adults
 
 
 
