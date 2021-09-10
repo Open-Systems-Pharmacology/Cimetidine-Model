@@ -26,9 +26,10 @@ The result of the final parameter identification is shown in the table below:
 
 | Model Parameter            | Optimized Value | Unit |
 | -------------------------- | --------------- | ---- |
-| Specific intestinal permeability | 8.72E-7 | cm/min |
+| Specific intestinal permeability<sup>*</sup> | 2.87E-06 | cm/min |
 | CLhep | 0.16 | 1/min |
-| kcat OCT1 | 8.66E+4 | 1/min |
-| kcat OAT3 | 5.75E+07 | 1/min |
-| kcat MATE1 | 32.37 | 1/min |
+| kcat OCT1<sup>*</sup> | 10911.84 | 1/min |
+| kcat OAT3<sup>*</sup> | 3268741.98 | 1/min |
+| kcat MATE1<sup>*</sup> | 103.56 | 1/min |
 
+*These values were reestimated in PK-Sim Version 10, and, therefore, do not correspond to the original values published by [Hanke 2020](#5-References).
