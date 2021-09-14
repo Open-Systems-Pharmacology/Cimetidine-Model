@@ -22,14 +22,13 @@ Cimetidine inhibits several enzymes such as CYP3A4 and CYP2D6 as well as transpo
 
 The parameter identification tool in PK-Sim has been used to estimate selected model parameters by adjusting to PK data of the clinical studies that were used in the model building process (see [Section 2.2](#22-Data)). 
 
-The result of the final parameter identification is shown in the table below:
+All values were reestimated in PK-Sim Version 10, and, therefore, do not correspond to the original values published by [Hanke 2020](#5-References). The result of the final parameter identification is shown in the table below:
 
 | Model Parameter            | Optimized Value | Unit |
 | -------------------------- | --------------- | ---- |
-| Specific intestinal permeability<sup>*</sup> | 2.87E-06 | cm/min |
-| CLhep | 0.16 | 1/min |
-| kcat OCT1<sup>*</sup> | 10911.84 | 1/min |
-| kcat OAT3<sup>*</sup> | 3268741.98 | 1/min |
-| kcat MATE1<sup>*</sup> | 103.56 | 1/min |
+| Specific intestinal permeability| 5.26E-06 | cm/min |
+| CLhep| 0.12| 1/min |
+| kcat OCT1| 14098.32 | 1/min |
+| kcat OAT3| 2522831.10 | 1/min |
+| kcat MATE1| 159.47 | 1/min |
 
-*These values were reestimated in PK-Sim Version 10, and, therefore, do not correspond to the original values published by [Hanke 2020](#5-References).

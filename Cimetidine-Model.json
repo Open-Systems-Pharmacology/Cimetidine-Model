@@ -11995,12 +11995,12 @@
           "Parameters": [
             {
               "Name": "Specific intestinal permeability (transcellular)",
-              "Value": 2.8740150156E-06,
+              "Value": 5.2554004942E-06,
               "Unit": "cm/min",
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from 'Parameter Identification 1' on 2021-09-07 13:38"
+                "Description": "Value updated from 'Parameter Identification' on 2021-09-13 17:00"
               }
             }
           ]
@@ -12046,10 +12046,12 @@
             },
             {
               "Name": "Specific clearance",
-              "Value": 0.1600808777,
+              "Value": 0.1209722937,
               "Unit": "1/min",
               "ValueOrigin": {
-                "Source": "ParameterIdentification"
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "Value updated from 'Parameter Identification' on 2021-09-13 17:00"
               }
             }
           ]
@@ -12079,12 +12081,12 @@
             },
             {
               "Name": "kcat",
-              "Value": 103.5572034763,
+              "Value": 159.4749627996,
               "Unit": "1/min",
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from 'Parameter Identification 3' on 2021-09-09 10:35"
+                "Description": "Value updated from 'Parameter Identification' on 2021-09-13 17:00"
               }
             }
           ]
@@ -12115,12 +12117,12 @@
             },
             {
               "Name": "kcat",
-              "Value": 3268741.9804,
+              "Value": 2522831.1016,
               "Unit": "1/min",
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from 'Parameter Identification 3' on 2021-09-09 10:35"
+                "Description": "Value updated from 'Parameter Identification' on 2021-09-13 17:00"
               }
             }
           ]
@@ -12151,12 +12153,12 @@
             },
             {
               "Name": "kcat",
-              "Value": 10911.8399411036,
+              "Value": 14098.3224931732,
               "Unit": "1/min",
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from 'Parameter Identification 3' on 2021-09-09 10:35"
+                "Description": "Value updated from 'Parameter Identification' on 2021-09-13 17:00"
               }
             }
           ]
@@ -14560,7 +14562,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Cimetidine-Model_2\niv 100 mg (5 min), Grahnen 1979, n=3\n2021-09-09 10:47"
+          "OriginText": "Cimetidine-Model\niv 100 mg (5 min), Grahnen 1979, n=3\n2021-09-13 17:01"
         },
         {
           "Axes": [
@@ -14617,7 +14619,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Cimetidine-Model_2\niv 100 mg (5 min), Grahnen 1979, n=3\n2021-09-09 10:47"
+          "OriginText": "Cimetidine-Model\niv 100 mg (5 min), Grahnen 1979, n=3\n2021-09-13 17:01"
         }
       ]
     },
@@ -14778,7 +14780,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Cimetidine-Model_2\niv 200 mg (30 min),Morgan 1983, n=4\n2021-09-09 10:46"
+          "OriginText": "Cimetidine-Model\niv 200 mg (30 min),Morgan 1983, n=4\n2021-09-13 17:01"
         }
       ]
     },
@@ -14939,7 +14941,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Cimetidine-Model_2\niv 200 mg (5 min),Morgan 1983, n=6\n2021-09-09 10:46"
+          "OriginText": "Cimetidine-Model\niv 200 mg (5 min),Morgan 1983, n=6\n2021-09-13 17:02"
         }
       ]
     },
@@ -15100,7 +15102,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Cimetidine-Model_2\niv 200 mg, Bodemar 1981, n=10\n2021-09-09 10:47"
+          "OriginText": "Cimetidine-Model\niv 200 mg, Bodemar 1981, n=10\n2021-09-13 17:02"
         },
         {
           "Axes": [
@@ -15157,7 +15159,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Cimetidine-Model_2\niv 200 mg, Bodemar 1981, n=10\n2021-09-09 10:47"
+          "OriginText": "Cimetidine-Model\niv 200 mg, Bodemar 1981, n=10\n2021-09-13 17:02"
         }
       ]
     },
@@ -15318,7 +15320,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Cimetidine-Model_2\niv 200 mg, Larsson 1982, n=9\n2021-09-09 10:47"
+          "OriginText": "Cimetidine-Model\niv 200 mg, Larsson 1982, n=9\n2021-09-13 17:02"
         },
         {
           "Axes": [
@@ -15375,7 +15377,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Cimetidine-Model_2\niv 200 mg, Larsson 1982, n=9\n2021-09-09 10:47"
+          "OriginText": "Cimetidine-Model\niv 200 mg, Larsson 1982, n=9\n2021-09-13 17:02"
         }
       ]
     },
@@ -15533,7 +15535,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Cimetidine-Model_2\niv 200 mg, Mihaly 1984, n=6\n2021-09-09 10:46"
+          "OriginText": "Cimetidine-Model\niv 200 mg, Mihaly 1984, n=6\n2021-09-13 17:02"
         }
       ]
     },
@@ -15694,7 +15696,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Cimetidine-Model_2\niv 300 mg (2 min), Lebert 1981, n=1\n2021-09-09 10:46"
+          "OriginText": "Cimetidine-Model\niv 300 mg (2 min), Lebert 1981, n=1\n2021-09-13 17:03"
         }
       ]
     },
@@ -16014,7 +16016,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Cimetidine-Model_2\niv 300 mg (2 min), Walkenstein 1978, n=12\n2021-09-09 10:45"
+          "OriginText": "Cimetidine-Model\niv 300 mg (2 min), Walkenstein 1978, n=12\n2021-09-13 16:13"
         },
         {
           "Axes": [
@@ -16203,7 +16205,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Cimetidine-Model_2\niv 300 mg (2 min), Walkenstein 1978, n=12\n2021-09-09 10:45"
+          "OriginText": "Cimetidine-Model\niv 300 mg (2 min), Walkenstein 1978, n=12\n2021-09-13 16:13"
         }
       ]
     },
@@ -16252,16 +16254,6 @@
           "Path": "Applications|Split dose - 200 mg Bodemar 1979.1|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
-        },
-        {
-          "Path": "Cimetidine|Intestinal permeability (transcellular)",
-          "Value": 6.301197711E-06,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "ParameterIdentification",
-            "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 3' on 2021-09-09 10:35"
-          }
         },
         {
           "Path": "Undefined Liver|Reference concentration",
@@ -16399,7 +16391,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Cimetidine-Model_2\npo 200 mg (tab), Bodemar 1979 (fasted)\n2021-09-09 10:42"
+          "OriginText": "Cimetidine-Model\npo 200 mg (tab), Bodemar 1979 (fasted)\n2021-09-13 17:03"
         }
       ]
     },
@@ -16442,16 +16434,6 @@
           "Path": "Applications|Split dose - 200 mg Bodemar 1979.2|Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
-        },
-        {
-          "Path": "Cimetidine|Intestinal permeability (transcellular)",
-          "Value": 6.301197711E-06,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "ParameterIdentification",
-            "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 3' on 2021-09-09 10:35"
-          }
         },
         {
           "Path": "Undefined Liver|Reference concentration",
@@ -16587,7 +16569,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Cimetidine-Model_2\npo 200 mg (tab), Bodemar 1979 (fed)\n2021-09-09 10:51"
+          "OriginText": "Cimetidine-Model\npo 200 mg (tab), Bodemar 1979 (fed)\n2021-09-13 17:03"
         }
       ]
     },
@@ -16636,16 +16618,6 @@
           "Path": "Applications|Split dose - 200 mg Bodemar 1981.1|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
-        },
-        {
-          "Path": "Cimetidine|Intestinal permeability (transcellular)",
-          "Value": 6.301197711E-06,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "ParameterIdentification",
-            "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 3' on 2021-09-09 10:35"
-          }
         },
         {
           "Path": "Undefined Liver|Reference concentration",
@@ -16774,7 +16746,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Cimetidine-Model_2\npo 200 mg, Bodemar 1981, n=10\n2021-09-09 10:51"
+          "OriginText": "Cimetidine-Model\npo 200 mg, Bodemar 1981, n=10\n2021-09-13 17:04"
         },
         {
           "Axes": [
@@ -16831,7 +16803,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Cimetidine-Model_2\npo 200 mg, Bodemar 1981, n=10\n2021-09-09 10:51"
+          "OriginText": "Cimetidine-Model\npo 200 mg, Bodemar 1981, n=10\n2021-09-13 17:04"
         }
       ]
     },
@@ -16879,16 +16851,6 @@
           "Path": "Applications|Split dose - 200 mg Burland 1975 caps|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
-        },
-        {
-          "Path": "Cimetidine|Intestinal permeability (transcellular)",
-          "Value": 6.301197711E-06,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "ParameterIdentification",
-            "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 3' on 2021-09-09 10:35"
-          }
         },
         {
           "Path": "Undefined Liver|Reference concentration",
@@ -17013,7 +16975,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Cimetidine-Model_2\npo 200 mg, Burland 1975, caps\n2021-09-09 10:52"
+          "OriginText": "Cimetidine-Model\npo 200 mg, Burland 1975, caps\n2021-09-13 17:04"
         }
       ]
     },
@@ -17061,16 +17023,6 @@
           "Path": "Applications|Split dose - 200 mg Burland 1975 sol|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
-        },
-        {
-          "Path": "Cimetidine|Intestinal permeability (transcellular)",
-          "Value": 6.301197711E-06,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "ParameterIdentification",
-            "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 3' on 2021-09-09 10:35"
-          }
         },
         {
           "Path": "Undefined Liver|Reference concentration",
@@ -17195,7 +17147,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Cimetidine-Model_2\npo 200 mg, Burland 1975, sol\n2021-09-09 10:52"
+          "OriginText": "Cimetidine-Model\npo 200 mg, Burland 1975, sol\n2021-09-13 17:05"
         }
       ]
     },
@@ -17243,16 +17195,6 @@
           "Path": "Applications|Split dose - 200 mg Kanto 1981|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
-        },
-        {
-          "Path": "Cimetidine|Intestinal permeability (transcellular)",
-          "Value": 6.301197711E-06,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "ParameterIdentification",
-            "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 3' on 2021-09-09 10:35"
-          }
         },
         {
           "Path": "Undefined Liver|Reference concentration",
@@ -17377,7 +17319,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Cimetidine-Model_2\npo 200 mg, Kanto 1981, n=8\n2021-09-09 10:53"
+          "OriginText": "Cimetidine-Model\npo 200 mg, Kanto 1981, n=8\n2021-09-13 17:05"
         }
       ]
     },
@@ -17425,16 +17367,6 @@
           "Path": "Applications|Split dose - 200 mg Mihaly 1984|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
-        },
-        {
-          "Path": "Cimetidine|Intestinal permeability (transcellular)",
-          "Value": 6.301197711E-06,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "ParameterIdentification",
-            "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 3' on 2021-09-09 10:35"
-          }
         },
         {
           "Path": "Undefined Liver|Reference concentration",
@@ -17559,7 +17491,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Cimetidine-Model_2\npo 200 mg, Mihaly 1984, n=8\n2021-09-09 10:53"
+          "OriginText": "Cimetidine-Model\npo 200 mg, Mihaly 1984, n=8\n2021-09-13 17:05"
         }
       ]
     },
@@ -17919,16 +17851,6 @@
           "Unit": "ml/kg"
         },
         {
-          "Path": "Cimetidine|Intestinal permeability (transcellular)",
-          "Value": 6.301197711E-06,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "ParameterIdentification",
-            "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 3' on 2021-09-09 10:35"
-          }
-        },
-        {
           "Path": "Undefined Liver|Reference concentration",
           "Value": 1.0,
           "Unit": "µmol/l"
@@ -18054,7 +17976,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Cimetidine-Model_2\npo 200/400 mg QID, Bodemar 1981 (fasted)\n2021-09-09 10:55"
+          "OriginText": "Cimetidine-Model\npo 200/400 mg QID, Bodemar 1981 (fasted)\n2021-09-13 17:07"
         }
       ]
     },
@@ -18137,16 +18059,6 @@
           "Path": "Applications|Split dose - 300 mg Walkenstein 1978 sol|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
-        },
-        {
-          "Path": "Cimetidine|Intestinal permeability (transcellular)",
-          "Value": 6.301197711E-06,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "ParameterIdentification",
-            "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 3' on 2021-09-09 10:35"
-          }
         },
         {
           "Path": "Undefined Liver|Reference concentration",
@@ -18551,7 +18463,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Cimetidine-Model_2\npo 300 mg (sol), Walkenstein 1978, n=24\n2021-09-09 10:57"
+          "OriginText": "Cimetidine-Model\npo 300 mg (sol), Walkenstein 1978, n=24\n2021-09-13 17:07"
         },
         {
           "Axes": [
@@ -18739,7 +18651,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Cimetidine-Model_2\npo 300 mg (sol), Walkenstein 1978, n=24\n2021-09-09 10:57"
+          "OriginText": "Cimetidine-Model\npo 300 mg (sol), Walkenstein 1978, n=24\n2021-09-13 17:07"
         }
       ]
     },
@@ -18798,16 +18710,6 @@
           "Path": "Applications|Split dose - 300 mg Walkenstein 1978 tab|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
-        },
-        {
-          "Path": "Cimetidine|Intestinal permeability (transcellular)",
-          "Value": 6.301197711E-06,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "ParameterIdentification",
-            "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 3' on 2021-09-09 10:35"
-          }
         },
         {
           "Path": "Undefined Liver|Reference concentration",
@@ -19066,7 +18968,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Cimetidine-Model_2\npo 300 mg (tabl), Walkenstein 1978, n=12\n2021-09-09 10:57"
+          "OriginText": "Cimetidine-Model\npo 300 mg (tabl), Walkenstein 1978, n=12\n2021-09-13 17:08"
         }
       ]
     },
@@ -19119,16 +19021,6 @@
           "Path": "Applications|Split dose - 300 mg D'Angio1986|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
-        },
-        {
-          "Path": "Cimetidine|Intestinal permeability (transcellular)",
-          "Value": 6.301197711E-06,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "ParameterIdentification",
-            "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 3' on 2021-09-09 10:35"
-          }
         },
         {
           "Path": "Undefined Liver|Reference concentration",
@@ -19314,7 +19206,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Cimetidine-Model_2\npo 300 mg (tab), D'Angio 1986, n=6\n2021-09-09 10:57"
+          "OriginText": "Cimetidine-Model\npo 300 mg (tab), D'Angio 1986, n=6\n2021-09-13 17:08"
         }
       ]
     },
@@ -19604,16 +19496,6 @@
           "Unit": "ml/kg"
         },
         {
-          "Path": "Cimetidine|Intestinal permeability (transcellular)",
-          "Value": 6.301197711E-06,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "ParameterIdentification",
-            "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 3' on 2021-09-09 10:35"
-          }
-        },
-        {
           "Path": "Undefined Liver|Reference concentration",
           "Value": 1.0,
           "Unit": "µmol/l"
@@ -19737,7 +19619,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Cimetidine-Model_2\npo 300 mg QID (sol), Barbhaiya 1995, n=18\n2021-09-09 10:58"
+          "OriginText": "Cimetidine-Model\npo 300 mg QID (sol), Barbhaiya 1995, n=18\n2021-09-13 17:09"
         }
       ]
     },
@@ -19785,16 +19667,6 @@
           "Path": "Applications|Split dose - 400 mg Bodemar 1979|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
-        },
-        {
-          "Path": "Cimetidine|Intestinal permeability (transcellular)",
-          "Value": 6.301197711E-06,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "ParameterIdentification",
-            "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 3' on 2021-09-09 10:35"
-          }
         },
         {
           "Path": "Undefined Liver|Reference concentration",
@@ -19921,7 +19793,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Cimetidine-Model_2\npo 400 mg (tab), Bodemar 1979, n=10\n2021-09-09 10:59"
+          "OriginText": "Cimetidine-Model\npo 400 mg (tab), Bodemar 1979, n=10\n2021-09-13 17:09"
         }
       ]
     },
@@ -19969,16 +19841,6 @@
           "Path": "Applications|Split dose - 400 mg Somogyi 1981|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
-        },
-        {
-          "Path": "Cimetidine|Intestinal permeability (transcellular)",
-          "Value": 6.301197711E-06,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "ParameterIdentification",
-            "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 3' on 2021-09-09 10:35"
-          }
         },
         {
           "Path": "Undefined Liver|Reference concentration",
@@ -20104,7 +19966,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Cimetidine-Model_2\npo 400 mg (tab), Somogyi 1981, n=8\n2021-09-09 10:59"
+          "OriginText": "Cimetidine-Model\npo 400 mg (tab), Somogyi 1981, n=8\n2021-09-13 17:10"
         }
       ]
     },
@@ -20155,16 +20017,6 @@
           "Path": "Applications|Split dose - 400 mg Grahnen 1979|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
-        },
-        {
-          "Path": "Cimetidine|Intestinal permeability (transcellular)",
-          "Value": 6.301197711E-06,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "ParameterIdentification",
-            "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 3' on 2021-09-09 10:35"
-          }
         },
         {
           "Path": "Undefined Liver|Reference concentration",
@@ -20317,7 +20169,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Cimetidine-Model_2\npo 400 mg (tab),Grahnen 1979, n=3\n2021-09-09 11:00"
+          "OriginText": "Cimetidine-Model\npo 400 mg (tab),Grahnen 1979, n=3\n2021-09-13 17:10"
         },
         {
           "Axes": [
@@ -20374,7 +20226,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Cimetidine-Model_2\npo 400 mg (tab),Grahnen 1979, n=3\n2021-09-09 11:00"
+          "OriginText": "Cimetidine-Model\npo 400 mg (tab),Grahnen 1979, n=3\n2021-09-13 17:10"
         }
       ]
     },
@@ -20423,16 +20275,6 @@
           "Path": "Applications|Split dose - 400 mg Bodemar 1981|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
-        },
-        {
-          "Path": "Cimetidine|Intestinal permeability (transcellular)",
-          "Value": 6.301197711E-06,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "ParameterIdentification",
-            "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 3' on 2021-09-09 10:35"
-          }
         },
         {
           "Path": "Undefined Liver|Reference concentration",
@@ -20561,7 +20403,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Cimetidine-Model_2\npo 400 mg, Bodemar 1981, n=9\n2021-09-09 11:00"
+          "OriginText": "Cimetidine-Model\npo 400 mg, Bodemar 1981, n=9\n2021-09-13 17:10"
         },
         {
           "Axes": [
@@ -20618,7 +20460,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Cimetidine-Model_2\npo 400 mg, Bodemar 1981, n=9\n2021-09-09 11:00"
+          "OriginText": "Cimetidine-Model\npo 400 mg, Bodemar 1981, n=9\n2021-09-13 17:10"
         }
       ]
     },
@@ -20667,16 +20509,6 @@
           "Path": "Applications|Split dose - 800 mg Bodemar 1981|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
-        },
-        {
-          "Path": "Cimetidine|Intestinal permeability (transcellular)",
-          "Value": 6.301197711E-06,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "ParameterIdentification",
-            "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 3' on 2021-09-09 10:35"
-          }
         },
         {
           "Path": "Undefined Liver|Reference concentration",
@@ -20805,7 +20637,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Cimetidine-Model_2\npo 800 mg, Bodemar 1981, n=9\n2021-09-09 11:01"
+          "OriginText": "Cimetidine-Model\npo 800 mg, Bodemar 1981, n=9\n2021-09-13 17:11"
         },
         {
           "Axes": [
@@ -20862,7 +20694,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Cimetidine-Model_2\npo 800 mg, Bodemar 1981, n=9\n2021-09-09 11:01"
+          "OriginText": "Cimetidine-Model\npo 800 mg, Bodemar 1981, n=9\n2021-09-13 17:11"
         }
       ]
     },
@@ -20970,16 +20802,6 @@
           "Path": "Applications|Split dose - 800 mg qd Tiseo 1998|Tablet|Application_9|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
-        },
-        {
-          "Path": "Cimetidine|Intestinal permeability (transcellular)",
-          "Value": 6.301197711E-06,
-          "Unit": "cm/min",
-          "ValueOrigin": {
-            "Source": "ParameterIdentification",
-            "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 3' on 2021-09-09 10:35"
-          }
         },
         {
           "Path": "Undefined Liver|Reference concentration",
@@ -21103,7 +20925,7 @@
             "BackColor": "#FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Cimetidine-Model_2\npo 800 mg (tab) qd, Tiseo 1998, n=18\n2021-09-09 11:01"
+          "OriginText": "Cimetidine-Model\npo 800 mg (tab) qd, Tiseo 1998, n=18\n2021-09-13 17:11"
         }
       ]
     }
@@ -21140,8 +20962,8 @@
         "po 800 mg, Bodemar 1981, n=9"
       ],
       "Configuration": {
-        "LLOQMode": "SimulationOutputAsObservedDataLLOQ",
-        "RemoveLLOQMode": "Never",
+        "LLOQMode": "OnlyObservedData",
+        "RemoveLLOQMode": "NoTrailing",
         "CalculateJacobian": false,
         "Algorithm": {
           "Name": "Levenberg - Marquardt (MPFit)",
@@ -21774,7 +21596,7 @@
           "Parameters": [
             {
               "Name": "Start value",
-              "Value": 32775.7510871441,
+              "Value": 10911.84,
               "Unit": "1/min"
             },
             {
@@ -21823,12 +21645,12 @@
           "Parameters": [
             {
               "Name": "Start value",
-              "Value": 11082118.68,
+              "Value": 3268741.98,
               "Unit": "1/min"
             },
             {
               "Name": "MinValue",
-              "Value": 11111.0,
+              "Value": 1111.0,
               "Unit": "1/min"
             },
             {
@@ -21872,7 +21694,7 @@
           "Parameters": [
             {
               "Name": "Start value",
-              "Value": 57.5904948699,
+              "Value": 103.56,
               "Unit": "1/min"
             },
             {
@@ -21888,32 +21710,32 @@
           ]
         },
         {
-          "Name": "Intestinal permeability (transcellular)",
+          "Name": "Specific intestinal permeability (transcellular)",
           "Scaling": "Log",
           "LinkedParameters": [
-            "po 200 mg (tab), Bodemar 1979 (fasted)|Cimetidine|Intestinal permeability (transcellular)",
-            "po 200 mg (tab), Bodemar 1979 (fed)|Cimetidine|Intestinal permeability (transcellular)",
-            "po 200 mg, Bodemar 1981, n=10|Cimetidine|Intestinal permeability (transcellular)",
-            "po 200 mg, Burland 1975, caps|Cimetidine|Intestinal permeability (transcellular)",
-            "po 200 mg, Burland 1975, sol|Cimetidine|Intestinal permeability (transcellular)",
-            "po 200 mg, Kanto 1981, n=8|Cimetidine|Intestinal permeability (transcellular)",
-            "po 200 mg, Mihaly 1984, n=8|Cimetidine|Intestinal permeability (transcellular)",
-            "po 200/400 mg QID, Bodemar 1981 (fasted)|Cimetidine|Intestinal permeability (transcellular)",
-            "po 300 mg (sol), Walkenstein 1978, n=24|Cimetidine|Intestinal permeability (transcellular)",
-            "po 300 mg (tab), D'Angio 1986, n=6|Cimetidine|Intestinal permeability (transcellular)",
-            "po 300 mg (tabl), Walkenstein 1978, n=12|Cimetidine|Intestinal permeability (transcellular)",
-            "po 300 mg QID (sol), Barbhaiya 1995, n=18|Cimetidine|Intestinal permeability (transcellular)",
-            "po 400 mg (tab), Bodemar 1979, n=10|Cimetidine|Intestinal permeability (transcellular)",
-            "po 400 mg (tab), Somogyi 1981, n=8|Cimetidine|Intestinal permeability (transcellular)",
-            "po 400 mg (tab),Grahnen 1979, n=3|Cimetidine|Intestinal permeability (transcellular)",
-            "po 400 mg, Bodemar 1981, n=9|Cimetidine|Intestinal permeability (transcellular)",
-            "po 800 mg (tab) qd, Tiseo 1998, n=18|Cimetidine|Intestinal permeability (transcellular)",
-            "po 800 mg, Bodemar 1981, n=9|Cimetidine|Intestinal permeability (transcellular)"
+            "po 200 mg (tab), Bodemar 1979 (fasted)|Cimetidine|Specific intestinal permeability (transcellular)",
+            "po 200 mg (tab), Bodemar 1979 (fed)|Cimetidine|Specific intestinal permeability (transcellular)",
+            "po 200 mg, Bodemar 1981, n=10|Cimetidine|Specific intestinal permeability (transcellular)",
+            "po 200 mg, Burland 1975, caps|Cimetidine|Specific intestinal permeability (transcellular)",
+            "po 200 mg, Burland 1975, sol|Cimetidine|Specific intestinal permeability (transcellular)",
+            "po 200 mg, Kanto 1981, n=8|Cimetidine|Specific intestinal permeability (transcellular)",
+            "po 200 mg, Mihaly 1984, n=8|Cimetidine|Specific intestinal permeability (transcellular)",
+            "po 200/400 mg QID, Bodemar 1981 (fasted)|Cimetidine|Specific intestinal permeability (transcellular)",
+            "po 300 mg (sol), Walkenstein 1978, n=24|Cimetidine|Specific intestinal permeability (transcellular)",
+            "po 300 mg (tab), D'Angio 1986, n=6|Cimetidine|Specific intestinal permeability (transcellular)",
+            "po 300 mg (tabl), Walkenstein 1978, n=12|Cimetidine|Specific intestinal permeability (transcellular)",
+            "po 300 mg QID (sol), Barbhaiya 1995, n=18|Cimetidine|Specific intestinal permeability (transcellular)",
+            "po 400 mg (tab), Bodemar 1979, n=10|Cimetidine|Specific intestinal permeability (transcellular)",
+            "po 400 mg (tab), Somogyi 1981, n=8|Cimetidine|Specific intestinal permeability (transcellular)",
+            "po 400 mg (tab),Grahnen 1979, n=3|Cimetidine|Specific intestinal permeability (transcellular)",
+            "po 400 mg, Bodemar 1981, n=9|Cimetidine|Specific intestinal permeability (transcellular)",
+            "po 800 mg (tab) qd, Tiseo 1998, n=18|Cimetidine|Specific intestinal permeability (transcellular)",
+            "po 800 mg, Bodemar 1981, n=9|Cimetidine|Specific intestinal permeability (transcellular)"
           ],
           "Parameters": [
             {
               "Name": "Start value",
-              "Value": 2.8740150156E-06,
+              "Value": 2.87E-06,
               "Unit": "cm/min"
             },
             {
@@ -21925,6 +21747,55 @@
               "Name": "MaxValue",
               "Value": 2.8740150156E-05,
               "Unit": "cm/min"
+            }
+          ]
+        },
+        {
+          "Name": "Specific clearance",
+          "Scaling": "Log",
+          "LinkedParameters": [
+            "iv 100 mg (5 min), Grahnen 1979, n=3|Cimetidine-Total Hepatic Clearance-Somogyi 1983|Specific clearance",
+            "iv 200 mg (30 min),Morgan 1983, n=4|Cimetidine-Total Hepatic Clearance-Somogyi 1983|Specific clearance",
+            "iv 200 mg (5 min),Morgan 1983, n=6|Cimetidine-Total Hepatic Clearance-Somogyi 1983|Specific clearance",
+            "iv 200 mg, Bodemar 1981, n=10|Cimetidine-Total Hepatic Clearance-Somogyi 1983|Specific clearance",
+            "iv 200 mg, Larsson 1982, n=9|Cimetidine-Total Hepatic Clearance-Somogyi 1983|Specific clearance",
+            "iv 200 mg, Mihaly 1984, n=6|Cimetidine-Total Hepatic Clearance-Somogyi 1983|Specific clearance",
+            "iv 300 mg (2 min), Lebert 1981, n=1|Cimetidine-Total Hepatic Clearance-Somogyi 1983|Specific clearance",
+            "iv 300 mg (2 min), Walkenstein 1978, n=12|Cimetidine-Total Hepatic Clearance-Somogyi 1983|Specific clearance",
+            "po 200 mg (tab), Bodemar 1979 (fasted)|Cimetidine-Total Hepatic Clearance-Somogyi 1983|Specific clearance",
+            "po 200 mg (tab), Bodemar 1979 (fed)|Cimetidine-Total Hepatic Clearance-Somogyi 1983|Specific clearance",
+            "po 200 mg, Bodemar 1981, n=10|Cimetidine-Total Hepatic Clearance-Somogyi 1983|Specific clearance",
+            "po 200 mg, Burland 1975, caps|Cimetidine-Total Hepatic Clearance-Somogyi 1983|Specific clearance",
+            "po 200 mg, Burland 1975, sol|Cimetidine-Total Hepatic Clearance-Somogyi 1983|Specific clearance",
+            "po 200 mg, Kanto 1981, n=8|Cimetidine-Total Hepatic Clearance-Somogyi 1983|Specific clearance",
+            "po 200 mg, Mihaly 1984, n=8|Cimetidine-Total Hepatic Clearance-Somogyi 1983|Specific clearance",
+            "po 200/400 mg QID, Bodemar 1981 (fasted)|Cimetidine-Total Hepatic Clearance-Somogyi 1983|Specific clearance",
+            "po 300 mg (sol), Walkenstein 1978, n=24|Cimetidine-Total Hepatic Clearance-Somogyi 1983|Specific clearance",
+            "po 300 mg (tab), D'Angio 1986, n=6|Cimetidine-Total Hepatic Clearance-Somogyi 1983|Specific clearance",
+            "po 300 mg (tabl), Walkenstein 1978, n=12|Cimetidine-Total Hepatic Clearance-Somogyi 1983|Specific clearance",
+            "po 300 mg QID (sol), Barbhaiya 1995, n=18|Cimetidine-Total Hepatic Clearance-Somogyi 1983|Specific clearance",
+            "po 400 mg (tab), Bodemar 1979, n=10|Cimetidine-Total Hepatic Clearance-Somogyi 1983|Specific clearance",
+            "po 400 mg (tab), Somogyi 1981, n=8|Cimetidine-Total Hepatic Clearance-Somogyi 1983|Specific clearance",
+            "po 400 mg (tab),Grahnen 1979, n=3|Cimetidine-Total Hepatic Clearance-Somogyi 1983|Specific clearance",
+            "po 400 mg, Bodemar 1981, n=9|Cimetidine-Total Hepatic Clearance-Somogyi 1983|Specific clearance",
+            "po 800 mg (tab) qd, Tiseo 1998, n=18|Cimetidine-Total Hepatic Clearance-Somogyi 1983|Specific clearance",
+            "po 800 mg, Bodemar 1981, n=9|Cimetidine-Total Hepatic Clearance-Somogyi 1983|Specific clearance"
+          ],
+          "Parameters": [
+            {
+              "Name": "Start value",
+              "Value": 0.1600808777,
+              "Unit": "1/min"
+            },
+            {
+              "Name": "MinValue",
+              "Value": 0.0016,
+              "Unit": "1/min"
+            },
+            {
+              "Name": "MaxValue",
+              "Value": 1.600808777,
+              "Unit": "1/min"
             }
           ]
         }
