@@ -16,6 +16,8 @@
 
 **Greenblatt 1986** Greenblatt DJ, Locniskar A, Scavone JM, Blyden GT, Ochs HR, Harmatz JS,  Shader RI. Absence of interaction of cimetidine and ranitidine with  intravenous and oral midazolam. Anesth Analg. 1986 Feb;65(2):176-80.  PMID: 2935051.
 
+**Hanke 2020** Hanke N, Türk D, Selzer D, Ishiguro N, Ebner  T, Wiebe S, Müller F, Stopfer P, Nock V, Lehr T. A Comprehensive  Whole-Body Physiologically Based Pharmacokinetic Drug-Drug-Gene  Interaction Model of Metformin and Cimetidine in Healthy Adults and  Renally Impaired Individuals. Clin Pharmacokinet. 2020  Nov;59(11):1419-1431. doi: 10.1007/s40262-020-00896-w. PMID: 32449077;  PMCID: PMC7658088.
+
 **Ito 2012** Ito S, Kusuhara H,  Yokochi M, Toyoshima J, Inoue K, Yuasa H, Sugiyama Y. Competitive  inhibition of the luminal efflux by multidrug and toxin extrusions, but  not basolateral uptake by organic cation transporter 2, is the likely  mechanism underlying the pharmacokinetic drug-drug interactions caused  by cimetidine in the kidney. J Pharmacol Exp Ther. 2012  Feb;340(2):393-403. doi: 10.1124/jpet.111.184986. Epub 2011 Nov 9. PMID: 22072731.
 
 **Kanto 1981** Kanto J, Allonen H, Jalonen H, Mäntylä R. The effect of metoclopramide  and propantheline on the gastrointestinal absorption of cimetidine. Br J Clin Pharmacol. 1981 Jun;11(6):629-31. doi:  10.1111/j.1365-2125.1981.tb01184.x. PMID: 7272182; PMCID: PMC1402204.
