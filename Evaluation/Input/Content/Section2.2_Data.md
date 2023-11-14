@@ -17,7 +17,7 @@ A literature search was performed to collect available information on physiochem
 | OCT1 K<sub>i</sub> | µmol/l | 104     | [Ito 2012](#5-references) | Inhibition constant for competitive inhibition |
 | OCT2 K<sub>i</sub> | µmol/l | 124 | [Ito 2012](#5-references) | Inhibition constant for competitive inhibition |
 | MATE1 K<sub>i</sub> | µmol/l | 3.8     | [Ito 2012](#5-references) | Inhibition constant for competitive inhibition |
-| CYP3A4 K<sub>i</sub> | µmol/l | 268     | [Wrighton 1994](#5-references) | Inhibition constant for competitive inhibition |
+| CYP3A4 K<sub>i</sub> (refitted in PK-Sim V10) | µmol/l | 268 (30.51266) | [Wrighton 1994](#5-references) | Inhibition constant for competitive inhibition |
 
 
 ### 2.2.2 Clinical Data
@@ -57,3 +57,20 @@ The following studies were used for model verification:
 | [Barbhaiya 1995](#5-references)   | Healthy subjects receiving multiple oral doses of 300 mg (tablet) |
 | [Somogyi 1981](#5-references)     | Healthy subjects receiving a single oral dose of 400 mg (tablet) |
 | [Tiseo 1998](#5-references)       | Healthy subjects receiving multiple oral doses of 800 mg (tablet) |
+
+#### 2.2.2.3 Model update due to PK-Sim V10 conversion
+
+As a consequence of updating the cimetidine PBPK model to PK-Sim version 10, the K<sub>i</sub> needed to be readjusted. For this purpose, AUC ratios of the following clinical DDI studies were used to inform K<sub>i</sub> in an additional parameter identification:
+
+| Publication                      | Interaction of cimetidine with:                              |
+| :------------------------------------- | :------------------------------|
+| [Kienlen 1993](#5-references)    | Alfentanil |
+| [Abernethy 1983](#5-references)  | Alprazolam and triazolam |
+| [Elliott 1984](#5-references)    | Midazolam |
+| [Fee 1987](#5-references)        | Midazolam |
+| [Greenblatt 1986](#5-references) | Intravenous and oral midazolam |
+| [Martinez 1999](#5-references)   | Midazolam |
+| [Salonen 1986](#5-references)    | Midazolam |
+| [Pourbaix 1985](#5-references)   | Triazolam. NOTE: The interaction of cimetidine with alprazolam of this publication was not used for parameterization due to very long simulation duration! |
+| [Cox 1986](#5-references)        | Triazolam |
+| [Friedman 1988](#5-references)   | Triazolam |

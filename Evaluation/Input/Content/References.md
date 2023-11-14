@@ -1,3 +1,5 @@
+**Abernethy 1983**  Abernethy DR,  Greenblatt DJ, Divoll M, Moschitto LJ, Harmatz JS, Shader RI.  Interaction of cimetidine with the triazolobenzodiazepines alprazolam  and triazolam. Psychopharmacology (Berl). 1983;80(3):275-8. doi:  10.1007/BF00436169.
+
 **Avdeef 2001** Avdeef A, Berger CM. pH-metric solubility. 3. Dissolution titration  template method for solubility determination. Eur J Pharm Sci. 2001  Dec;14(4):281-91. doi: 10.1016/s0928-0987(01)00190-7. PMID: 11684402.
 
 **Barbhaiya 1995** Barbhaiya RH, Shukla UA, Greene DS. Lack of interaction between  nefazodone and cimetidine: a steady state pharmacokinetic study in  humans. Br J Clin Pharmacol. 1995 Aug;40(2):161-5. doi:  10.1111/j.1365-2125.1995.tb05771.x. PMID: 8562300; PMCID: PMC1365177.
@@ -8,9 +10,15 @@
 
 **Burland 1975** Burland WL, Duncan WA, Hesselbo T, Mills JG, Sharpe PC, Haggie SJ,  Wyllie JH. Pharmacological evaluation of cimetidine, a new histamine  H2-receptor antagonist, in healthy man. Br J Clin Pharmacol. 1975  Dec;2(6):481-6. doi: 10.1111/j.1365-2125.1975.tb00564.x. PMID: 9952;  PMCID: PMC1402643.
 
+**Cox 1986** Cox SR, Kroboth PD, Anderson PH, Smith RB. Mechanism for the interaction between triazolam  and cimetidine. Biopharm Drug Dispos. 1986 Nov-Dec;7(6):567-75.
+
 **D'Angio 1986** D'Angio R, Mayersohn M, Conrad KA, Bliss M. Cimetidine absorption in  humans during sucralfate coadministration. Br J Clin Pharmacol. 1986  May;21(5):515-20. doi: 10.1111/j.1365-2125.1986.tb02834.x. PMID:  3755052; PMCID: PMC1401033.
 
+**Elliott 1984** Elliott P, Dundee  JW, Elwood RJ, Collier PS. The influence of H2 receptor antagonists on  the plasma concentrations of midazolam and temazepam. Eur J  Anaesthesiol. 1984 Sep;1(3):245-51.
+
 **Fee 1987** Fee JP, Collier PS, Howard PJ, Dundee JW. Cimetidine and ranitidine increase midazolam  bioavailability. Clin Pharmacol Ther. 1987 Jan;41(1):80-4. doi:  10.1038/clpt.1987.13. PMID: 3802710.
+
+**Friedman 1988** Friedman H,  Greenblatt DJ, Burstein ES, Scavone JM, Harmatz JS, Shader RI. Triazolam kinetics: interaction with cimetidine, propranolol, and the  combination. J Clin Pharmacol. 1988 Mar;28(3):228-33.
 
 **Grahnen 1979** Grahnén A, von Bahr C, Lindström B, Rosén A. Bioavailability and  pharmacokinetics of cimetidine. Eur J Clin Pharmacol. 1979  Nov;16(5):335-40. doi: 10.1007/BF00605632. PMID: 520401.
 
@@ -23,6 +31,8 @@
 **Kanto 1981** Kanto J, Allonen H, Jalonen H, Mäntylä R. The effect of metoclopramide  and propantheline on the gastrointestinal absorption of cimetidine. Br J Clin Pharmacol. 1981 Jun;11(6):629-31. doi:  10.1111/j.1365-2125.1981.tb01184.x. PMID: 7272182; PMCID: PMC1402204.
 
 **Kuepfer 2016** Kuepfer L, Niederalt C, Wendl T, Schlender JF, Willmann S, Lippert J, Block M, Eissing T, Teutonico D. Applied Concepts in PBPK Modeling: How to Build a PBPK/PD Model.CPT Pharmacometrics Syst Pharmacol. 2016 Oct;5(10):516-531.
+
+**Kienlen 1993** Kienlen, J., Levron, JC., Aubas, S. *et al.* Pharmacokinetics of Alfentanil in Patients Treated with Either Cimetidine or Ranitidine.  Drug Invest **6,** 257–262 (1993).
 
 **Larsson 1982** Larsson R, Erlanson P, Bodemar G, Walan A, Bertler A, Fransson L,  Norlander B. The pharmacokinetics of cimetidine and its sulphoxide  metabolite in patients with normal and impaired renal function. Br J  Clin Pharmacol. 1982 Feb;13(2):163-70. doi:  10.1111/j.1365-2125.1982.tb01351.x. PMID: 7059413; PMCID: PMC1402003.
 
@@ -41,6 +51,8 @@
 **Ohta 2005** Ohta KY, Inoue K, Yasujima T, Ishimaru M, Yuasa H. Functional  characteristics of two human MATE transporters: kinetics of cimetidine  transport and profiles of inhibition by various compounds. J Pharm Pharm Sci. 2009;12(3):388-96. doi: 10.18433/j3r59x. PMID: 20067714.
 
 **PK-Sim Ontogeny Database Version 7.3** (https://github.com/Open-Systems-Pharmacology/OSPSuite.Documentation/blob/38cf71b384cfc25cfa0ce4d2f3addfd32757e13b/PK-Sim%20Ontogeny%20Database%20Version%207.3.pdf)
+
+**Pourbaix 1985** Pourbaix S, Desager JP, Hulhoven R, Smith RB, Harvengt C. Pharmacokinetic consequences of  long term coadministration of cimetidine and triazolobenzodiazepines,  alprazolam and triazolam, in healthy subjects. Int J Clin Pharmacol Ther Toxicol. 1985 Aug;23(8):447-51.
 
 **Salonen 1986** Salonen M, Aantaa  E, Aaltonen L, Kanto J. Importance of the interaction of midazolam and  cimetidine. Acta Pharmacol Toxicol (Copenh). 1986 Feb;58(2):91-5. doi:  10.1111/j.1600-0773.1986.tb00076.x. PMID: 2939688.
 
@@ -65,4 +77,3 @@
 **Wishart 2006** Wishart DS, Knox C, Guo AC, Shrivastava S, Hassanali M, Stothard P,  Chang Z, Woolsey J. DrugBank: a comprehensive resource for in silico  drug discovery and exploration. Nucleic Acids Res. 2006 Jan  1;34(Database issue):D668-72. doi: 10.1093/nar/gkj067. PMID: 16381955;  PMCID: PMC1347430.
 
 **Wrighton 1994** Wrighton SA, Ring  BJ. Inhibition of human CYP3A catalyzed 1'-hydroxy midazolam formation  by ketoconazole, nifedipine, erythromycin, cimetidine, and nizatidine.  Pharm Res. 1994 Jun;11(6):921-4. doi: 10.1023/a:1018906614320. PMID:  7937537.
-
