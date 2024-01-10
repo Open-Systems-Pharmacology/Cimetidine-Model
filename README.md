@@ -17,7 +17,7 @@ This repository contains:
 
 This cimetidine model is intended to be used as perpetrator drug in OCT2/MATE- and CYP3A4-mediated drug-drug interactions (DDI). 
 
-The herein presented model was developed and published by Hanke et al. [[1](https://github.com/Open-Systems-Pharmacology/Cimetidine-Model#references)]. It comprises transport by OCT1, MATE1 and OAT3 as well as glomerular filtration. It has been developed using 27 clinical studies of intravenous or oral administration, covering a broad dosing range of 100 to 800 mg. 
+The herein presented model was developed and published by Hanke et al. [[1](https://github.com/Open-Systems-Pharmacology/Cimetidine-Model#references)] and later on adjusted to account for structural changes coming with PK-Sim V10. It comprises transport by OCT1, MATE1 and OAT3 as well as glomerular filtration. It has been developed using 27 clinical studies of intravenous or oral administration, covering a broad dosing range of 100 to 800 mg. 
 
 ## Code of conduct
 
