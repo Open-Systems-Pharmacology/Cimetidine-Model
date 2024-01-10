@@ -22,7 +22,7 @@ Cimetidine inhibits several enzymes such as CYP3A4 and CYP2D6 as well as transpo
 
 The parameter identification tool in PK-Sim has been used to estimate selected model parameters by adjusting to PK data of the clinical studies that were used in the model building process (see [Section 2.2](#22-data)). 
 
-All values were reestimated in PK-Sim Version 10, and, therefore, do not correspond to the original values published by [Hanke 2020](#5-references). The result of the final parameter identification is shown in the table below:
+Specific intestinal permeability, unspecific hepatic clearance (CLhep) and Kcat values for OCT1, OAT3 and MATE1 were reestimated in PK-Sim Version 10, and, therefore, do not correspond to the original values published by [Hanke 2020](#5-references). The result of the final parameter identification is shown in the table below:
 
 | Model Parameter            | Optimized Value | Unit |
 | -------------------------- | --------------- | ---- |
@@ -32,7 +32,7 @@ All values were reestimated in PK-Sim Version 10, and, therefore, do not corresp
 | kcat OAT3| 2522831.10 | 1/min |
 | kcat MATE1| 159.47 | 1/min |
 
-In the course of updating the cimetidine PBPK model to PK-Sim V10, the interaction parameter CYP3A4 K<sub>i</sub> was fitted to improve the performance in CYP3A4 interactions. In detail, CYP3A4 K<sub>i</sub> was adjusted such that the error of the simulated AUC ratios of cimetidine with several CYP3A4 substrates vs. corresponding observed AUC ratios of the clinical studies (see [Section 2.2.2.3](#2223-Model-update-due-to-PK-Sim-V10-conversion)) was minimized.
+As a result of updating the cimetidine PBPK model to PK-Sim V10, the interaction parameter CYP3A4 K<sub>i</sub> was fitted in a second step to improve the performance in CYP3A4 interactions. In detail, CYP3A4 K<sub>i</sub> was adjusted such that the error of the simulated AUC ratios of cimetidine with several CYP3A4 substrates vs. corresponding observed AUC ratios of the clinical studies (see [Section 2.2.2.3](#2223-Model-update-due-to-PK-Sim-V10-conversion)) was minimized.
 
 | Model Parameter            | Optimized Value | Unit |
 | -------------------------- | --------------- | ---- |
