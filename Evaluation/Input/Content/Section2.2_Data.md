@@ -16,7 +16,7 @@ A literature search was performed to collect available information on physiochem
 | MATE1 K<sub>m</sub> | µmol/l | 8.0 | [Ohta 2005](#5-references) | Michaelis-Menten constant |
 | OCT1 K<sub>i</sub> | µmol/l | 104     | [Ito 2012](#5-references) | Inhibition constant for competitive inhibition |
 | OCT2 K<sub>i</sub> | µmol/l | 124 | [Ito 2012](#5-references) | Inhibition constant for competitive inhibition |
-| MATE1 K<sub>i</sub> | µmol/l | 3.8     | [Ito 2012](#5-references) | Inhibition constant for competitive inhibition |
+| MATE1 K<sub>i</sub> (refitted in PK-Sim V10) | µmol/l | 3.8 (0.65) | [Ito 2012](#5-references) | Inhibition constant for competitive inhibition |
 | CYP3A4 K<sub>i</sub> (refitted in PK-Sim V10) | µmol/l | 268 (30.51266) | [Wrighton 1994](#5-references) | Inhibition constant for competitive inhibition |
 
 
@@ -60,7 +60,7 @@ The following studies were used for model verification:
 
 #### 2.2.2.3 Model update due to PK-Sim V10 conversion
 
-As a consequence of updating the cimetidine PBPK model to PK-Sim version 10, the K<sub>i</sub> needed to be readjusted. For this purpose, AUC ratios of the following clinical DDI studies were used to inform K<sub>i</sub> in an additional parameter identification:
+As a consequence of updating the cimetidine PBPK model to PK-Sim version 10, the CYP3A4 K<sub>i</sub> value needed to be readjusted. For this purpose, AUC ratios of the following clinical DDI studies were used to inform K<sub>i</sub> in an additional parameter identification:
 
 | Publication                      | Interaction of cimetidine with:                              |
 | :------------------------------------- | :------------------------------|
@@ -74,3 +74,5 @@ As a consequence of updating the cimetidine PBPK model to PK-Sim version 10, the
 | [Pourbaix 1985](#5-references)   | Triazolam. NOTE: The interaction of cimetidine with alprazolam of this publication was not used for parameterization due to very long simulation duration! |
 | [Cox 1986](#5-references)        | Triazolam |
 | [Friedman 1988](#5-references)   | Triazolam |
+
+Similarly, MATE1 K<sub>i</sub> value was adjusted to reproduce the observed inhibition effect on metformin PK (https://github.com/Open-Systems-Pharmacology/Cimetidine-Metformin-DDI).
