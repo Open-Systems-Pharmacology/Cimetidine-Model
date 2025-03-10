@@ -123,138 +123,138 @@
             {
                 "Project": "Cimetidine",
                 "Simulation": "iv 100 mg (5 min), Grahnen 1979, n=3",
-                "SectionId": 332
+                "SectionReference": "model-validation"
             },
             {
                 "Project": "Cimetidine",
                 "Simulation": "iv 200 mg (30 min),Morgan 1983, n=4",
-                "SectionId": 332
+                "SectionReference": "model-validation"
             },
             {
                 "Project": "Cimetidine",
                 "Simulation": "iv 200 mg (5 min),Morgan 1983, n=6",
-                "SectionId": 331
+                "SectionReference": "model-building"
             },
             {
                 "Project": "Cimetidine",
                 "Simulation": "iv 200 mg, Larsson 1982, n=9",
-                "SectionId": 332
+                "SectionReference": "model-validation"
             },
             {
                 "Project": "Cimetidine",
                 "Simulation": "iv 200 mg, Mihaly 1984, n=6",
-                "SectionId": 332
+                "SectionReference": "model-validation"
             },
             {
                 "Project": "Cimetidine",
                 "Simulation": "iv 200 mg, Bodemar 1981, n=10",
-                "SectionId": 331
+                "SectionReference": "model-building"
             },
             {
                 "Project": "Cimetidine",
                 "Simulation": "iv 300 mg (2 min), Lebert 1981, n=1",
-                "SectionId": 332
+                "SectionReference": "model-validation"
             },
             {
                 "Project": "Cimetidine",
                 "Simulation": "iv 300 mg (2 min), Walkenstein 1978, n=12",
-                "SectionId": 332
+                "SectionReference": "model-validation"
             },
             {
                 "Project": "Cimetidine",
                 "Simulation": "po 200 mg (tab), Bodemar 1979 (fasted)",
-                "SectionId": 332
+                "SectionReference": "model-validation"
             },
             {
                 "Project": "Cimetidine",
                 "Simulation": "po 200 mg (tab), Bodemar 1979 (fed)",
-                "SectionId": 332
+                "SectionReference": "model-validation"
             },
             {
                 "Project": "Cimetidine",
                 "Simulation": "po 200 mg, Bodemar 1981, n=10",
-                "SectionId": 331
+                "SectionReference": "model-building"
             },
             {
                 "Project": "Cimetidine",
                 "Simulation": "po 200 mg, Burland 1975, caps",
-                "SectionId": 332
+                "SectionReference": "model-validation"
             },
             {
                 "Project": "Cimetidine",
                 "Simulation": "po 200 mg, Burland 1975, sol",
-                "SectionId": 332
+                "SectionReference": "model-validation"
             },
             {
                 "Project": "Cimetidine",
                 "Simulation": "po 200 mg, Kanto 1981, n=8",
-                "SectionId": 332
+                "SectionReference": "model-validation"
             },
             {
                 "Project": "Cimetidine",
                 "Simulation": "po 200 mg, Mihaly 1984, n=8",
-                "SectionId": 332
+                "SectionReference": "model-validation"
             },
             {
                 "Project": "Cimetidine",
                 "Simulation": "po 200/400 mg QID, Bodemar 1981 (fasted)",
-                "SectionId": 332
+                "SectionReference": "model-validation"
             },
             {
                 "Project": "Cimetidine",
                 "Simulation": "po 300 mg (sol), Walkenstein 1978, n=24",
-                "SectionId": 331
+                "SectionReference": "model-building"
             },
             {
                 "Project": "Cimetidine",
                 "Simulation": "po 300 mg (tab), D'Angio 1986, n=6",
-                "SectionId": 331
+                "SectionReference": "model-building"
             },
             {
                 "Project": "Cimetidine",
                 "Simulation": "po 300 mg (tabl), Walkenstein 1978, n=12",
-                "SectionId": 332
+                "SectionReference": "model-validation"
             },
             {
                 "Project": "Cimetidine",
                 "Simulation": "po 300 mg QID (sol), Barbhaiya 1995, n=18",
-                "SectionId": 332
+                "SectionReference": "model-validation"
             },
             {
                 "Project": "Cimetidine",
                 "Simulation": "po 400 mg (tab), Bodemar 1979, n=10",
-                "SectionId": 332
+                "SectionReference": "model-validation"
             },
             {
                 "Project": "Cimetidine",
                 "Simulation": "po 400 mg (tab), Somogyi 1981, n=8",
-                "SectionId": 332
+                "SectionReference": "model-validation"
             },
             {
                 "Project": "Cimetidine",
                 "Simulation": "po 400 mg (tab),Grahnen 1979, n=3",
-                "SectionId": 332
+                "SectionReference": "model-validation"
             },
             {
                 "Project": "Cimetidine",
                 "Simulation": "po 400 mg, Bodemar 1981, n=9",
-                "SectionId": 331
+                "SectionReference": "model-building"
             },
             {
                 "Project": "Cimetidine",
                 "Simulation": "po 800 mg (tab) qd, Tiseo 1998, n=18",
-                "SectionId": 332
+                "SectionReference": "model-validation"
             },
             {
                 "Project": "Cimetidine",
                 "Simulation": "po 800 mg, Bodemar 1981, n=9",
-                "SectionId": 331
+                "SectionReference": "model-building"
             }
         ],
         "GOFMergedPlots": [
             {
                 "Title": "Goodness of fit plor for concentration in plasma",
-                "SectionId": 32,
+                "SectionReference": "diagnostics-plots",
                 "Artifacts": [
                     "Plot",
                     "GMFE",
@@ -273,21 +273,11 @@
                                 "Project": "Cimetidine",
                                 "Simulation": "iv 100 mg (5 min), Grahnen 1979, n=3",
                                 "Output": "Organism|PeripheralVenousBlood|Cimetidine|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Grahnen 1979 - IV 100 mg, Individual KN - Cimetidine - IV - 100 mg - Plasma - indiv.",
-                                "Color": "#FF0000"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "iv 100 mg (5 min), Grahnen 1979, n=3",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Grahnen 1979 - IV 100 mg, Individual LH - Cimetidine - IV - 100 mg - Plasma - indiv.",
-                                "Color": "#FF0000"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "iv 100 mg (5 min), Grahnen 1979, n=3",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Grahnen 1979 - IV 100 mg, Individual LOE - Cimetidine - IV - 100 mg - Plasma - indiv.",
+                                "ObservedData": [
+                                    "Grahnen 1979 - IV 100 mg, Individual KN - Cimetidine - IV - 100 mg - Plasma - indiv.",
+                                    "Grahnen 1979 - IV 100 mg, Individual LH - Cimetidine - IV - 100 mg - Plasma - indiv.",
+                                    "Grahnen 1979 - IV 100 mg, Individual LOE - Cimetidine - IV - 100 mg - Plasma - indiv."
+                                ],
                                 "Color": "#FF0000"
                             },
                             {
@@ -336,84 +326,20 @@
                                 "Project": "Cimetidine",
                                 "Simulation": "iv 300 mg (2 min), Walkenstein 1978, n=12",
                                 "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - IV 300 mg Subject 1 - Cimetidine - IV - 300 mg - Whole Blood - indiv.",
-                                "Color": "#FF0000"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "iv 300 mg (2 min), Walkenstein 1978, n=12",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - IV 300 mg Subject 2 - Cimetidine - IV - 300 mg - Whole Blood - indiv.",
-                                "Color": "#FF0000"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "iv 300 mg (2 min), Walkenstein 1978, n=12",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - IV 300 mg Subject 3 - Cimetidine - IV - 300 mg - Whole Blood - indiv.",
-                                "Color": "#FF0000"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "iv 300 mg (2 min), Walkenstein 1978, n=12",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - IV 300 mg Subject 4 - Cimetidine - IV - 300 mg - Whole Blood - indiv.",
-                                "Color": "#FF0000"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "iv 300 mg (2 min), Walkenstein 1978, n=12",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - IV 300 mg Subject 5 - Cimetidine - IV - 300 mg - Whole Blood - indiv.",
-                                "Color": "#FF0000"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "iv 300 mg (2 min), Walkenstein 1978, n=12",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - IV 300 mg Subject 6 - Cimetidine - IV - 300 mg - Whole Blood - indiv.",
-                                "Color": "#FF0000"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "iv 300 mg (2 min), Walkenstein 1978, n=12",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - IV 300 mg Subject 7 - Cimetidine - IV - 300 mg - Whole Blood - indiv.",
-                                "Color": "#FF0000"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "iv 300 mg (2 min), Walkenstein 1978, n=12",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - IV 300 mg Subject 8 - Cimetidine - IV - 300 mg - Whole Blood - indiv.",
-                                "Color": "#FF0000"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "iv 300 mg (2 min), Walkenstein 1978, n=12",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - IV 300 mg Subject 9 - Cimetidine - IV - 300 mg - Whole Blood - indiv.",
-                                "Color": "#FF0000"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "iv 300 mg (2 min), Walkenstein 1978, n=12",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - IV 300 mg Subject 10 - Cimetidine - IV - 300 mg - Whole Blood - indiv.",
-                                "Color": "#FF0000"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "iv 300 mg (2 min), Walkenstein 1978, n=12",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - IV 300 mg Subject 11 - Cimetidine - IV - 300 mg - Whole Blood - indiv.",
-                                "Color": "#FF0000"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "iv 300 mg (2 min), Walkenstein 1978, n=12",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - IV 300 mg Subject 12 - Cimetidine - IV - 300 mg - Whole Blood - indiv.",
+                                "ObservedData": [
+                                    "Walkenstein 1978 - IV 300 mg Subject 1 - Cimetidine - IV - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - IV 300 mg Subject 2 - Cimetidine - IV - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - IV 300 mg Subject 3 - Cimetidine - IV - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - IV 300 mg Subject 4 - Cimetidine - IV - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - IV 300 mg Subject 5 - Cimetidine - IV - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - IV 300 mg Subject 6 - Cimetidine - IV - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - IV 300 mg Subject 7 - Cimetidine - IV - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - IV 300 mg Subject 8 - Cimetidine - IV - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - IV 300 mg Subject 9 - Cimetidine - IV - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - IV 300 mg Subject 10 - Cimetidine - IV - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - IV 300 mg Subject 11 - Cimetidine - IV - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - IV 300 mg Subject 12 - Cimetidine - IV - 300 mg - Whole Blood - indiv."
+                                ],
                                 "Color": "#FF0000"
                             }
                         ]
@@ -426,14 +352,10 @@
                                 "Project": "Cimetidine",
                                 "Simulation": "po 200 mg (tab), Bodemar 1979 (fasted)",
                                 "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Bodemar 1979 - PO 200 mg - Cimetidine - PO - 200 mg - Whole Blood - agg. (n=10)",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 200 mg (tab), Bodemar 1979 (fasted)",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Bodemar 1979 - PO 200 mg - Cimetidine - PO - 200 mg - Whole Blood - agg. (n=10)",
+                                "ObservedData": [
+                                    "Bodemar 1979 - PO 200 mg - Cimetidine - PO - 200 mg - Whole Blood - agg. (n=10)",
+                                    "Bodemar 1979 - PO 200 mg fasted - Cimetidine - PO - 200 mg - Whole Blood - agg. (n=10)"
+                                ],
                                 "Color": "#0000FF"
                             },
                             {
@@ -475,294 +397,66 @@
                                 "Project": "Cimetidine",
                                 "Simulation": "po 300 mg (sol), Walkenstein 1978, n=24",
                                 "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - PO 300 mg sol Subject 1 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 300 mg (sol), Walkenstein 1978, n=24",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - PO 300 mg sol Subject 2 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 300 mg (sol), Walkenstein 1978, n=24",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - PO 300 mg sol Subject 3 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 300 mg (sol), Walkenstein 1978, n=24",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - PO 300 mg sol Subject 4 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 300 mg (sol), Walkenstein 1978, n=24",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - PO 300 mg sol Subject 5 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 300 mg (sol), Walkenstein 1978, n=24",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - PO 300 mg sol Subject 6 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 300 mg (sol), Walkenstein 1978, n=24",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - PO 300 mg sol Subject 7 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 300 mg (sol), Walkenstein 1978, n=24",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - PO 300 mg sol Subject 8 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 300 mg (sol), Walkenstein 1978, n=24",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - PO 300 mg sol Subject 9 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 300 mg (sol), Walkenstein 1978, n=24",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - PO 300 mg sol Subject 10 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 300 mg (sol), Walkenstein 1978, n=24",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - PO 300 mg sol Subject 11 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 300 mg (sol), Walkenstein 1978, n=24",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - PO 300 mg sol Subject 12 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 300 mg (sol), Walkenstein 1978, n=24",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - PO 300 mg sol Subject 13 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 300 mg (sol), Walkenstein 1978, n=24",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - PO 300 mg sol Subject 14 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 300 mg (sol), Walkenstein 1978, n=24",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - PO 300 mg sol Subject 15 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 300 mg (sol), Walkenstein 1978, n=24",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - PO 300 mg sol Subject 16 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 300 mg (sol), Walkenstein 1978, n=24",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - PO 300 mg sol Subject 17 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 300 mg (sol), Walkenstein 1978, n=24",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - PO 300 mg sol Subject 18 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 300 mg (sol), Walkenstein 1978, n=24",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - PO 300 mg sol Subject 19 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 300 mg (sol), Walkenstein 1978, n=24",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - PO 300 mg sol Subject 20 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 300 mg (sol), Walkenstein 1978, n=24",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - PO 300 mg sol Subject 21 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 300 mg (sol), Walkenstein 1978, n=24",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - PO 300 mg sol Subject 22 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 300 mg (sol), Walkenstein 1978, n=24",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - PO 300 mg sol Subject 23 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 300 mg (sol), Walkenstein 1978, n=24",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - PO 300 mg sol Subject 24 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
+                                "ObservedData": [
+                                    "Walkenstein 1978 - PO 300 mg sol Subject 1 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - PO 300 mg sol Subject 2 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - PO 300 mg sol Subject 3 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - PO 300 mg sol Subject 4 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - PO 300 mg sol Subject 5 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - PO 300 mg sol Subject 6 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - PO 300 mg sol Subject 7 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - PO 300 mg sol Subject 8 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - PO 300 mg sol Subject 9 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - PO 300 mg sol Subject 10 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - PO 300 mg sol Subject 11 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - PO 300 mg sol Subject 12 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - PO 300 mg sol Subject 13 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - PO 300 mg sol Subject 14 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - PO 300 mg sol Subject 15 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - PO 300 mg sol Subject 16 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - PO 300 mg sol Subject 17 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - PO 300 mg sol Subject 18 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - PO 300 mg sol Subject 19 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - PO 300 mg sol Subject 20 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - PO 300 mg sol Subject 21 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - PO 300 mg sol Subject 22 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - PO 300 mg sol Subject 23 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - PO 300 mg sol Subject 24 - Cimetidine - PO - 300 mg - Whole Blood - indiv."
+                                ],
                                 "Color": "#0000FF"
                             },
                             {
                                 "Project": "Cimetidine",
                                 "Simulation": "po 300 mg (tab), D'Angio 1986, n=6",
                                 "Output": "Organism|PeripheralVenousBlood|Cimetidine|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "D'Angio 1986 - PO 300 mg tab subject 1 - Cimetidine - PO - 300 mg - Serum - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 300 mg (tab), D'Angio 1986, n=6",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "D'Angio 1986 - PO 300 mg tab subject 2 - Cimetidine - PO - 300 mg - Serum - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 300 mg (tab), D'Angio 1986, n=6",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "D'Angio 1986 - PO 300 mg tab subject 3 - Cimetidine - PO - 300 mg - Serum - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 300 mg (tab), D'Angio 1986, n=6",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "D'Angio 1986 - PO 300 mg tab subject 4 - Cimetidine - PO - 300 mg - Serum - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 300 mg (tab), D'Angio 1986, n=6",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "D'Angio 1986 - PO 300 mg tab subject 5 - Cimetidine - PO - 300 mg - Serum - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 300 mg (tab), D'Angio 1986, n=6",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "D'Angio 1986 - PO 300 mg tab subject 6 - Cimetidine - PO - 300 mg - Serum - indiv.",
+                                "ObservedData": [
+                                    "D'Angio 1986 - PO 300 mg tab subject 1 - Cimetidine - PO - 300 mg - Serum - indiv.",
+                                    "D'Angio 1986 - PO 300 mg tab subject 2 - Cimetidine - PO - 300 mg - Serum - indiv.",
+                                    "D'Angio 1986 - PO 300 mg tab subject 3 - Cimetidine - PO - 300 mg - Serum - indiv.",
+                                    "D'Angio 1986 - PO 300 mg tab subject 4 - Cimetidine - PO - 300 mg - Serum - indiv.",
+                                    "D'Angio 1986 - PO 300 mg tab subject 5 - Cimetidine - PO - 300 mg - Serum - indiv.",
+                                    "D'Angio 1986 - PO 300 mg tab subject 6 - Cimetidine - PO - 300 mg - Serum - indiv."
+                                ],
                                 "Color": "#0000FF"
                             },
                             {
                                 "Project": "Cimetidine",
                                 "Simulation": "po 300 mg (tabl), Walkenstein 1978, n=12",
                                 "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - PO 300 mg tab Subject 13 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 300 mg (tabl), Walkenstein 1978, n=12",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - PO 300 mg tab Subject 14 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 300 mg (tabl), Walkenstein 1978, n=12",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - PO 300 mg tab Subject 15 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 300 mg (tabl), Walkenstein 1978, n=12",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - PO 300 mg tab Subject 16 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 300 mg (tabl), Walkenstein 1978, n=12",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - PO 300 mg tab Subject 17 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 300 mg (tabl), Walkenstein 1978, n=12",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - PO 300 mg tab Subject 18 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 300 mg (tabl), Walkenstein 1978, n=12",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - PO 300 mg tab Subject 19 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 300 mg (tabl), Walkenstein 1978, n=12",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - PO 300 mg tab Subject 20 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 300 mg (tabl), Walkenstein 1978, n=12",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - PO 300 mg tab Subject 21 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 300 mg (tabl), Walkenstein 1978, n=12",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - PO 300 mg tab Subject 22 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 300 mg (tabl), Walkenstein 1978, n=12",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - PO 300 mg tab Subject 23 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 300 mg (tabl), Walkenstein 1978, n=12",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Whole Blood (Peripheral Venous Blood)",
-                                "ObservedData": "Walkenstein 1978 - PO 300 mg tab Subject 24 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
+                                "ObservedData": [
+                                    "Walkenstein 1978 - PO 300 mg tab Subject 13 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - PO 300 mg tab Subject 14 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - PO 300 mg tab Subject 15 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - PO 300 mg tab Subject 16 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - PO 300 mg tab Subject 17 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - PO 300 mg tab Subject 18 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - PO 300 mg tab Subject 19 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - PO 300 mg tab Subject 20 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - PO 300 mg tab Subject 21 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - PO 300 mg tab Subject 22 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - PO 300 mg tab Subject 23 - Cimetidine - PO - 300 mg - Whole Blood - indiv.",
+                                    "Walkenstein 1978 - PO 300 mg tab Subject 24 - Cimetidine - PO - 300 mg - Whole Blood - indiv."
+                                ],
                                 "Color": "#0000FF"
                             },
                             {
@@ -783,21 +477,11 @@
                                 "Project": "Cimetidine",
                                 "Simulation": "po 400 mg (tab),Grahnen 1979, n=3",
                                 "Output": "Organism|PeripheralVenousBlood|Cimetidine|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Grahnen 1979 - PO 400 mg, Individual LH - Cimetidine - PO - 400 mg - Plasma - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 400 mg (tab),Grahnen 1979, n=3",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Grahnen 1979 - PO 400 mg, Individual LOE - Cimetidine - PO - 400 mg - Plasma - indiv.",
-                                "Color": "#0000FF"
-                            },
-                            {
-                                "Project": "Cimetidine",
-                                "Simulation": "po 400 mg (tab),Grahnen 1979, n=3",
-                                "Output": "Organism|PeripheralVenousBlood|Cimetidine|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Grahnen 1979 - PO 400 mg, Individual UB - Cimetidine - PO - 400 mg - Plasma - indiv.",
+                                "ObservedData": [
+                                    "Grahnen 1979 - PO 400 mg, Individual LH - Cimetidine - PO - 400 mg - Plasma - indiv.",
+                                    "Grahnen 1979 - PO 400 mg, Individual LOE - Cimetidine - PO - 400 mg - Plasma - indiv.",
+                                    "Grahnen 1979 - PO 400 mg, Individual UB - Cimetidine - PO - 400 mg - Plasma - indiv."
+                                ],
                                 "Color": "#0000FF"
                             },
                             {
@@ -855,71 +539,71 @@
             "Project": "Cimetidine",
             "Name": "Cimetidine",
             "Type": "Compound",
-            "SectionId": 31
+            "SectionReference": "final-input-parameters"
         },
         {
             "Project": "Cimetidine",
             "Name": "Tablet",
             "Type": "Formulation",
-            "SectionId": 31
+            "SectionReference": "final-input-parameters"
         }
     ],
     "Sections": [
         {
-            "Id": 1,
-            "Title": "1 Introduction",
+            "Reference": "introduction",
+            "Title": "Introduction",
             "Content": "Content/Section1_Introduction.md"
         },
         {
-            "Id": 2,
-            "Title": "2 Methods",
+            "Reference": "methods",
+            "Title": "Methods",
             "Content": "Content/Section2_Methods.md",
             "Sections": [
                 {
-                    "Id": 21,
-                    "Title": "2.1 Modeling Strategy",
+                    "Reference": "modeling-strategy",
+                    "Title": "Modeling Strategy",
                     "Content": "Content/Section2.1_Modeling_Strategy.md"
                 },
                 {
-                    "Id": 22,
-                    "Title": "2.2 Data",
+                    "Reference": "data",
+                    "Title": "Data",
                     "Content": "Content/Section2.2_Data.md"
                 },
                 {
-                    "Id": 23,
-                    "Title": "2.3 Model Parameters and Assumptions",
+                    "Reference": "model-parameters-and-assumptions",
+                    "Title": "Model Parameters and Assumptions",
                     "Content": "Content/Section2.3_Model_Parameters_and_Assumptions.md"
                 }
             ]
         },
         {
-            "Id": 3,
-            "Title": "3 Results and Discussion",
+            "Reference": "results-and-discussion",
+            "Title": "Results and Discussion",
             "Content": "Content/Section3_Results_and_Discussion.md",
             "Sections": [
                 {
-                    "Id": 31,
-                    "Title": "3.1 Final input parameters",
+                    "Reference": "final-input-parameters",
+                    "Title": "Final input parameters",
                     "Content": "Content/Input_table.md"
                 },
                 {
-                    "Id": 32,
-                    "Title": "3.2 Diagnostics Plots",
+                    "Reference": "diagnostics-plots",
+                    "Title": "Diagnostics Plots",
                     "Content": "Content/GOF_diagnostics.md"
                 },
                 {
-                    "Id": 33,
-                    "Title": "3.3: Concentration-Time Profiles",
+                    "Reference": "ct-profiles",
+                    "Title": "Concentration-Time Profiles",
                     "Content": "Content/Concentration_time_profiles.md",
                     "Sections": [
                         {
-                            "Id": 331,
-                            "Title": "3.3.1 Model Building",
+                            "Reference": "model-building",
+                            "Title": "Model Building",
                             "Content": "Content/Concentration_time_profiles_building.md"
                         },
                         {
-                            "Id": 332,
-                            "Title": "3.3.2 Model Validation",
+                            "Reference": "model-validation",
+                            "Title": "Model Validation",
                             "Content": "Content/Concentration_time_profiles_validation.md"
                         }
                     ]
@@ -927,13 +611,13 @@
             ]
         },
         {
-            "Id": 4,
-            "Title": "4 Conclusion",
+            "Reference": "conclusion",
+            "Title": "Conclusion",
             "Content": "Content/Section4_Conclusion.md"
         },
         {
-            "Id": 5,
-            "Title": "5 References",
+            "Reference": "main-references",
+            "Title": "References",
             "Content": "Content/References.md"
         }
     ],
