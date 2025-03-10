@@ -14581,11 +14581,12 @@
           "Parameters": [
             {
               "Name": "Ki",
-              "Value": 3.8,
+              "Value": 0.65,
               "Unit": "µmol/l",
               "ValueOrigin": {
-                "Source": "Other",
-                "Description": "NBI measurement"
+                "Source": "ParameterIdentification",
+                "Method": "ParameterIdentification",
+                "Description": "https://github.com/Open-Systems-Pharmacology/Cimetidine-Metformin-DDI"
               }
             }
           ]
@@ -24463,33 +24464,22 @@
               "MoleculeName": "CYP2C8"
             },
             {
-              "Name": "Glomerular Filtration-Optimized",
-              "SystemicProcessType": "GFR"
-            },
-            {
               "MoleculeName": "CYP3A4"
             },
             {
               "MoleculeName": "AADAC"
             },
             {
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "MoleculeName": "CYP2C8"
+            },
+            {
               "MoleculeName": "P-gp"
             },
             {
               "MoleculeName": "OATP1B1"
-            },
-            {
-              "MoleculeName": "ATP1A2"
-            },
-            {
-              "MoleculeName": "UGT1A4"
-            },
-            {
-              "Name": "GABRG2-Buhr 1997",
-              "MoleculeName": "GABRG2"
-            },
-            {
-              "MoleculeName": "CYP2C8"
             },
             {
               "MoleculeName": "OCT1"
@@ -24499,6 +24489,17 @@
             },
             {
               "MoleculeName": "MATE1"
+            },
+            {
+              "Name": "Glomerular Filtration-Optimized",
+              "SystemicProcessType": "GFR"
+            },
+            {
+              "MoleculeName": "ATP1A2"
+            },
+            {
+              "Name": "GABRG2-Buhr 1997",
+              "MoleculeName": "GABRG2"
             }
           ],
           "Protocol": {
@@ -24988,33 +24989,22 @@
               "MoleculeName": "CYP2C8"
             },
             {
-              "Name": "Glomerular Filtration-Optimized",
-              "SystemicProcessType": "GFR"
-            },
-            {
               "MoleculeName": "CYP3A4"
             },
             {
               "MoleculeName": "AADAC"
             },
             {
+              "MoleculeName": "UGT1A4"
+            },
+            {
+              "MoleculeName": "CYP2C8"
+            },
+            {
               "MoleculeName": "P-gp"
             },
             {
               "MoleculeName": "OATP1B1"
-            },
-            {
-              "MoleculeName": "ATP1A2"
-            },
-            {
-              "MoleculeName": "UGT1A4"
-            },
-            {
-              "Name": "GABRG2-Buhr 1997",
-              "MoleculeName": "GABRG2"
-            },
-            {
-              "MoleculeName": "CYP2C8"
             },
             {
               "MoleculeName": "OCT1"
@@ -25024,6 +25014,17 @@
             },
             {
               "MoleculeName": "MATE1"
+            },
+            {
+              "Name": "Glomerular Filtration-Optimized",
+              "SystemicProcessType": "GFR"
+            },
+            {
+              "MoleculeName": "ATP1A2"
+            },
+            {
+              "Name": "GABRG2-Buhr 1997",
+              "MoleculeName": "GABRG2"
             }
           ],
           "Protocol": {
@@ -40599,6 +40600,7 @@
               },
               {
                 "Unit": "",
+                "Dimension": "Dimensionless",
                 "Type": "Y",
                 "GridLines": false,
                 "Visible": true,
@@ -65770,7 +65772,7 @@
             0.05986656
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -65915,7 +65917,7 @@
             0.09849225
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -66061,7 +66063,7 @@
             0.05109634
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -66355,7 +66357,7 @@
             0.07815837
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -66507,7 +66509,7 @@
             0.05117069
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -66659,7 +66661,7 @@
             0.05399415
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -66965,7 +66967,7 @@
             0.07619048
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -67270,7 +67272,7 @@
             0.06291878
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -67448,7 +67450,7 @@
             0.02426847
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -67611,7 +67613,7 @@
             0.04352742
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -67781,7 +67783,7 @@
             0.08635119
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -67980,7 +67982,7 @@
             0.1459436
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -68179,7 +68181,7 @@
             0.4216148
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -68970,7 +68972,7 @@
             0.1346535
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -69169,7 +69171,7 @@
             0.2653465
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -69368,7 +69370,7 @@
             0.1559021
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -69567,7 +69569,7 @@
             0.1444586
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -69753,7 +69755,7 @@
             0.08512247
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -69941,7 +69943,7 @@
             0.07127236
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -70096,7 +70098,7 @@
             0.0429478325
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -70247,7 +70249,7 @@
             0.06
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -70397,7 +70399,7 @@
             0.025
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -70547,7 +70549,7 @@
             0.15
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -70697,7 +70699,7 @@
             0.025
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -70847,7 +70849,7 @@
             0.025
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -70997,7 +70999,7 @@
             0.08
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -71147,7 +71149,7 @@
             0.06
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -71297,7 +71299,7 @@
             0.11
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -71447,7 +71449,7 @@
             0.14
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -71597,7 +71599,7 @@
             0.1
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -71747,7 +71749,7 @@
             0.08
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -71897,7 +71899,7 @@
             0.06
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -72047,7 +72049,7 @@
             0.025
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -72197,7 +72199,7 @@
             0.025
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -72347,7 +72349,7 @@
             0.09
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -72496,7 +72498,7 @@
             0.08
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -72645,7 +72647,7 @@
             0.025
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -72795,7 +72797,7 @@
             0.07
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -72945,7 +72947,7 @@
             0.06
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -73095,7 +73097,7 @@
             0.025
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -73245,7 +73247,7 @@
             0.08
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -73395,7 +73397,7 @@
             0.11
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -73545,7 +73547,7 @@
             0.025
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -73695,7 +73697,7 @@
             0.08
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -73843,7 +73845,7 @@
             0.025
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -73989,7 +73991,7 @@
             0.025
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -74135,7 +74137,7 @@
             0.025
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -74281,7 +74283,7 @@
             0.025
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -74427,7 +74429,7 @@
             0.025
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -74573,7 +74575,7 @@
             0.025
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -74719,7 +74721,7 @@
             0.025
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -74865,7 +74867,7 @@
             0.025
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -75011,7 +75013,7 @@
             0.025
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -75157,7 +75159,7 @@
             0.06
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -75303,7 +75305,7 @@
             0.025
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -75449,7 +75451,7 @@
             0.025
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -75595,7 +75597,7 @@
             0.025
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -75741,7 +75743,7 @@
             0.025
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -75887,7 +75889,7 @@
             0.025
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -76033,7 +76035,7 @@
             0.025
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -76179,7 +76181,7 @@
             0.025
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -76325,7 +76327,7 @@
             0.025
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -76471,7 +76473,7 @@
             0.025
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -76617,7 +76619,7 @@
             0.025
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -76763,7 +76765,7 @@
             0.08
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -76909,7 +76911,7 @@
             0.025
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -77055,7 +77057,7 @@
             0.025
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -77201,7 +77203,7 @@
             0.025
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -80455,7 +80457,7 @@
             0.2867958
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -80921,7 +80923,7 @@
             0.0809553
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -81081,7 +81083,7 @@
             0.1222096
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -81241,7 +81243,7 @@
             0.1121987
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -81401,7 +81403,7 @@
             0.08895715
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -81560,7 +81562,7 @@
             0.1322087
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -81717,7 +81719,7 @@
             0.07999831
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -81869,7 +81871,7 @@
             0.113617405
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -82046,7 +82048,7 @@
             0.1707335
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -82209,7 +82211,7 @@
             0.08110615
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -82438,7 +82440,7 @@
             0.375811
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -83906,24 +83908,24 @@
             "MolWeight": 325.77
           },
           "Values": [
-            15.17425,
-            19.78214,
-            41.26554,
-            38.69374,
-            33.58,
-            39.1005,
-            35.3713,
-            26.06595,
-            14.44715,
-            8.841129,
-            7.629433,
-            4.565352,
-            1.271421,
-            1.558735,
-            0.6277986
+            0.0151742492,
+            0.01978214,
+            0.04126554,
+            0.03869374,
+            0.03358,
+            0.039100498,
+            0.0353713,
+            0.0260659512,
+            0.01444715,
+            0.00884113,
+            0.007629433,
+            0.004565352,
+            0.001271421,
+            0.001558735,
+            0.0006277986
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "ng/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -84063,24 +84065,24 @@
             "MolWeight": 325.77
           },
           "Values": [
-            69.05672,
-            110.6607,
-            97.93201,
-            78.26299,
-            67.36904,
-            66.64555,
-            51.58441,
-            47.62672,
-            38.32,
-            21.84854,
-            18.55189,
-            16.64657,
-            9.881794,
-            7.743906,
-            2.714779
+            0.06905672,
+            0.1106607,
+            0.09793201,
+            0.07826299,
+            0.0673690438,
+            0.0666455552,
+            0.05158441,
+            0.04762672,
+            0.03832,
+            0.0218485389,
+            0.01855189,
+            0.01664657,
+            0.009881794,
+            0.00774390576,
+            0.00271477876
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "ng/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
