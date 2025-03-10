@@ -1,5 +1,5 @@
 {
-  "Version": 79,
+  "Version": 80,
   "ExpressionProfiles": [
     {
       "Type": "Transporter",
@@ -17291,7 +17291,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|iv 100 mg (5 min)|Application_1|ProtocolSchemaItem|Infusion time",
+          "Path": "Events|iv 100 mg (5 min)|Application_1|ProtocolSchemaItem|Infusion time",
           "Value": 5.0,
           "Unit": "min"
         },
@@ -17557,7 +17557,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|iv 200 mg (30 min)|Application_1|ProtocolSchemaItem|Infusion time",
+          "Path": "Events|iv 200 mg (30 min)|Application_1|ProtocolSchemaItem|Infusion time",
           "Value": 30.0,
           "Unit": "min"
         },
@@ -17729,7 +17729,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|iv 200 mg (5 min)|Application_1|ProtocolSchemaItem|Infusion time",
+          "Path": "Events|iv 200 mg (5 min)|Application_1|ProtocolSchemaItem|Infusion time",
           "Value": 5.0,
           "Unit": "min"
         },
@@ -18550,7 +18550,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|iv 300 mg (2 min)|Application_1|ProtocolSchemaItem|Infusion time",
+          "Path": "Events|iv 300 mg (2 min)|Application_1|ProtocolSchemaItem|Infusion time",
           "Value": 2.0,
           "Unit": "min"
         },
@@ -18745,7 +18745,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|iv 300 mg (2 min)|Application_1|ProtocolSchemaItem|Infusion time",
+          "Path": "Events|iv 300 mg (2 min)|Application_1|ProtocolSchemaItem|Infusion time",
           "Value": 2.0,
           "Unit": "min"
         },
@@ -19254,12 +19254,12 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|Split dose - 200 mg Bodemar 1979.1|Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg Bodemar 1979.1|Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg Bodemar 1979.1|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg Bodemar 1979.1|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -19450,7 +19450,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|Split dose - 200 mg Bodemar 1979.2|Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg Bodemar 1979.2|Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -19640,12 +19640,12 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|Split dose - 200 mg Bodemar 1981.1|Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg Bodemar 1981.1|Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg Bodemar 1981.1|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg Bodemar 1981.1|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -19895,12 +19895,12 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|Split dose - 200 mg Burland 1975 caps|Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg Burland 1975 caps|Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg Burland 1975 caps|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg Burland 1975 caps|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -20078,12 +20078,12 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|Split dose - 200 mg Burland 1975 sol|Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg Burland 1975 sol|Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg Burland 1975 sol|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg Burland 1975 sol|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -20261,12 +20261,12 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|Split dose - 200 mg Kanto 1981|Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg Kanto 1981|Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg Kanto 1981|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg Kanto 1981|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -20444,12 +20444,12 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|Split dose - 200 mg Mihaly 1984|Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg Mihaly 1984|Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg Mihaly 1984|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg Mihaly 1984|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -20627,322 +20627,322 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_10|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_10|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_11|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_11|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_12|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_12|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_13|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_13|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_14|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_14|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_15|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_15|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_16|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_16|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_17|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_17|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_18|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_18|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_19|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_19|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_20|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_20|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_21|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_21|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_22|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_22|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_23|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_23|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_24|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_24|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_25|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_25|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_26|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_26|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_27|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_27|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_28|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_28|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_29|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_29|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_3|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_30|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_30|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_31|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_31|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_32|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_32|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_33|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_33|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_34|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_34|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_35|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_35|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_36|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_36|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_37|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_37|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_38|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_38|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_39|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_39|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_4|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_40|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_40|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_41|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_41|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_42|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_42|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_43|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_43|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_44|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_44|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_45|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_45|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_46|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_46|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_47|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_47|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_48|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_48|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_49|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_49|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_5|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_50|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_50|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_51|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_51|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_52|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_52|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_53|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_53|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_54|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_54|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_55|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_55|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_56|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_56|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_57|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_57|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_58|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_58|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_59|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_59|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_6|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_60|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_60|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_61|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_61|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_62|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_62|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_63|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_63|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_64|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_64|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_7|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_8|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 200 mg tid + 400 mg Bodemar 1981|Tablet|Application_9|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -21158,12 +21158,12 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|Split dose - 300 mg Walkenstein 1978 sol|Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg Walkenstein 1978 sol|Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg Walkenstein 1978 sol|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg Walkenstein 1978 sol|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -21831,12 +21831,12 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|Split dose - 300 mg Walkenstein 1978 tab|Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg Walkenstein 1978 tab|Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg Walkenstein 1978 tab|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg Walkenstein 1978 tab|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -22153,12 +22153,12 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|Split dose - 300 mg D'Angio1986|Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg D'Angio1986|Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg D'Angio1986|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg D'Angio1986|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -22397,252 +22397,252 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_10|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_10|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_11|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_11|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_12|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_12|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_13|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_13|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_14|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_14|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_15|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_15|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_16|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_16|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_17|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_17|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_18|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_18|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_19|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_19|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_20|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_20|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_21|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_21|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_22|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_22|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_23|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_23|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_24|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_24|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_25|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_25|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_26|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_26|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_27|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_27|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_28|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_28|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_29|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_29|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_3|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_30|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_30|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_31|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_31|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_32|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_32|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_33|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_33|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_34|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_34|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_35|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_35|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_36|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_36|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_37|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_37|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_38|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_38|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_39|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_39|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_4|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_40|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_40|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_41|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_41|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_42|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_42|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_43|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_43|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_44|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_44|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_45|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_45|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_46|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_46|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_47|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_47|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_48|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_48|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_49|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_49|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_5|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_50|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_50|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_6|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_7|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_8|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 300 mg qid Barbhaiya 1995|Tablet|Application_9|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -22821,12 +22821,12 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|Split dose - 400 mg Bodemar 1979|Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 400 mg Bodemar 1979|Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 400 mg Bodemar 1979|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 400 mg Bodemar 1979|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -23006,12 +23006,12 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|Split dose - 400 mg Somogyi 1981|Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 400 mg Somogyi 1981|Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 400 mg Somogyi 1981|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 400 mg Somogyi 1981|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -23193,12 +23193,12 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|Split dose - 400 mg Grahnen 1979|Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 400 mg Grahnen 1979|Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 400 mg Grahnen 1979|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 400 mg Grahnen 1979|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -23473,12 +23473,12 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|Split dose - 400 mg Bodemar 1981|Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 400 mg Bodemar 1981|Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 400 mg Bodemar 1981|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 400 mg Bodemar 1981|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -23729,12 +23729,12 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|Split dose - 800 mg Bodemar 1981|Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 800 mg Bodemar 1981|Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 800 mg Bodemar 1981|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 800 mg Bodemar 1981|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -23984,72 +23984,72 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|Split dose - 800 mg qd Tiseo 1998|Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 800 mg qd Tiseo 1998|Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 800 mg qd Tiseo 1998|Tablet|Application_10|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 800 mg qd Tiseo 1998|Tablet|Application_10|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 800 mg qd Tiseo 1998|Tablet|Application_11|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 800 mg qd Tiseo 1998|Tablet|Application_11|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 800 mg qd Tiseo 1998|Tablet|Application_12|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 800 mg qd Tiseo 1998|Tablet|Application_12|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 800 mg qd Tiseo 1998|Tablet|Application_13|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 800 mg qd Tiseo 1998|Tablet|Application_13|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 800 mg qd Tiseo 1998|Tablet|Application_14|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 800 mg qd Tiseo 1998|Tablet|Application_14|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 800 mg qd Tiseo 1998|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 800 mg qd Tiseo 1998|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 800 mg qd Tiseo 1998|Tablet|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 800 mg qd Tiseo 1998|Tablet|Application_3|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 800 mg qd Tiseo 1998|Tablet|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 800 mg qd Tiseo 1998|Tablet|Application_4|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 800 mg qd Tiseo 1998|Tablet|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 800 mg qd Tiseo 1998|Tablet|Application_5|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 800 mg qd Tiseo 1998|Tablet|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 800 mg qd Tiseo 1998|Tablet|Application_6|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 800 mg qd Tiseo 1998|Tablet|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 800 mg qd Tiseo 1998|Tablet|Application_7|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 800 mg qd Tiseo 1998|Tablet|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 800 mg qd Tiseo 1998|Tablet|Application_8|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Split dose - 800 mg qd Tiseo 1998|Tablet|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Split dose - 800 mg qd Tiseo 1998|Tablet|Application_9|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -24239,7 +24239,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|Midazolam 15 mg po control|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Midazolam 15 mg po control|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
@@ -24673,67 +24673,67 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|DDI Cimetidine-Midazolam - Cimetidine, Elliott 1984|Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|DDI Cimetidine-Midazolam - Cimetidine, Elliott 1984|Tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|DDI Cimetidine-Midazolam - Cimetidine, Elliott 1984|Tablet|Application_10|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|DDI Cimetidine-Midazolam - Cimetidine, Elliott 1984|Tablet|Application_10|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|DDI Cimetidine-Midazolam - Cimetidine, Elliott 1984|Tablet|Application_11|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|DDI Cimetidine-Midazolam - Cimetidine, Elliott 1984|Tablet|Application_11|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|DDI Cimetidine-Midazolam - Cimetidine, Elliott 1984|Tablet|Application_12|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|DDI Cimetidine-Midazolam - Cimetidine, Elliott 1984|Tablet|Application_12|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|DDI Cimetidine-Midazolam - Cimetidine, Elliott 1984|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|DDI Cimetidine-Midazolam - Cimetidine, Elliott 1984|Tablet|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|DDI Cimetidine-Midazolam - Cimetidine, Elliott 1984|Tablet|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|DDI Cimetidine-Midazolam - Cimetidine, Elliott 1984|Tablet|Application_3|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|DDI Cimetidine-Midazolam - Cimetidine, Elliott 1984|Tablet|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|DDI Cimetidine-Midazolam - Cimetidine, Elliott 1984|Tablet|Application_4|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|DDI Cimetidine-Midazolam - Cimetidine, Elliott 1984|Tablet|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|DDI Cimetidine-Midazolam - Cimetidine, Elliott 1984|Tablet|Application_5|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|DDI Cimetidine-Midazolam - Cimetidine, Elliott 1984|Tablet|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|DDI Cimetidine-Midazolam - Cimetidine, Elliott 1984|Tablet|Application_6|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|DDI Cimetidine-Midazolam - Cimetidine, Elliott 1984|Tablet|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|DDI Cimetidine-Midazolam - Cimetidine, Elliott 1984|Tablet|Application_7|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|DDI Cimetidine-Midazolam - Cimetidine, Elliott 1984|Tablet|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|DDI Cimetidine-Midazolam - Cimetidine, Elliott 1984|Tablet|Application_8|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|DDI Cimetidine-Midazolam - Cimetidine, Elliott 1984|Tablet|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|DDI Cimetidine-Midazolam - Cimetidine, Elliott 1984|Tablet|Application_9|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|DDI Cimetidine-Midazolam - Midazolam po, Elliott 1984|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|DDI Cimetidine-Midazolam - Midazolam po, Elliott 1984|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
