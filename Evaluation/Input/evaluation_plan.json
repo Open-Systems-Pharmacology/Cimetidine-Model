@@ -1,6 +1,6 @@
 {
-    "$schema": "https://github.com/Open-Systems-Pharmacology/QualificationPlan/releases/download/v2.1/OSP_Qualification_Plan_Schema.json",
-    "Projects": [        
+    "$schema": "https://github.com/Open-Systems-Pharmacology/QualificationPlan/releases/download/v3.3/OSP_Qualification_Plan_Schema.json",
+    "Projects": [
         {
             "Id": "Cimetidine",
             "Path": "../../Cimetidine-Model.json",
@@ -224,7 +224,8 @@
                 "Project": "Cimetidine",
                 "Simulation": "po 400 mg (tab), Bodemar 1979, n=10",
                 "SectionId": 332
-            },            {
+            },
+            {
                 "Project": "Cimetidine",
                 "Simulation": "po 400 mg (tab), Somogyi 1981, n=8",
                 "SectionId": 332
@@ -233,7 +234,8 @@
                 "Project": "Cimetidine",
                 "Simulation": "po 400 mg (tab),Grahnen 1979, n=3",
                 "SectionId": 332
-            },            {
+            },
+            {
                 "Project": "Cimetidine",
                 "Simulation": "po 400 mg, Bodemar 1981, n=9",
                 "SectionId": 331
@@ -242,7 +244,8 @@
                 "Project": "Cimetidine",
                 "Simulation": "po 800 mg (tab) qd, Tiseo 1998, n=18",
                 "SectionId": 332
-            },            {
+            },
+            {
                 "Project": "Cimetidine",
                 "Simulation": "po 800 mg, Bodemar 1981, n=9",
                 "SectionId": 331
@@ -257,7 +260,10 @@
                     "GMFE",
                     "Measure"
                 ],
-                "PlotType": "predictedVsObserved|residualsOverTime",
+                "PlotTypes": [
+                    "predictedVsObserved",
+                    "residualsOverTime"
+                ],
                 "Groups": [
                     {
                         "Caption": "iv administration",
