@@ -32,7 +32,7 @@ Specific intestinal permeability, unspecific hepatic clearance (CLhep) and Kcat 
 | kcat OAT3| 2522831.10 | 1/min |
 | kcat MATE1| 159.47 | 1/min |
 
-As a result of updating the cimetidine PBPK model to PK-Sim V10, the interaction parameter CYP3A4 K<sub>i</sub> was fitted in a second step to improve the performance in CYP3A4 interactions. In detail, CYP3A4 K<sub>i</sub> was adjusted such that the error of the simulated AUC ratios of cimetidine with several CYP3A4 substrates vs. corresponding observed AUC ratios of the clinical studies (see [Section 2.2.2.3](#2223-Model-update-due-to-PK-Sim-V10-conversion)) was minimized.
+As a result of updating the cimetidine PBPK model to PK-Sim V10, the interaction parameter CYP3A4 K<sub>i</sub> was fitted in a second step to improve the performance in CYP3A4 interactions. In detail, CYP3A4 K<sub>i</sub> was adjusted such that the error of the simulated AUC ratios of cimetidine with several CYP3A4 substrates vs. corresponding observed AUC ratios of the clinical studies (see [Section 2.2.2.3](#2223-model-update-due-to-pk-sim-v10-conversion)) was minimized.
 
 | Model Parameter            | Optimized Value | Unit |
 | -------------------------- | --------------- | ---- |
